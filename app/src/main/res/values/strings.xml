@@ -8,4 +8,6 @@
     <string name="low_storage_error">Zu wenig Speicherplatz vorhanden</string>
     <string name="no_camera_permission">Die App braucht Zugriff auf die Kamera</string>
     <string name="toolbar_title">Kitchen Help</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_search">Suche</string>
 </resources>
