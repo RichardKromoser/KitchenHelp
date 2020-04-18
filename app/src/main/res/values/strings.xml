@@ -12,6 +12,9 @@
     <string name="action_search">Suche</string>
     <string name="drawer_open">Navigation offen</string>
     <string name="drawer_close">Navigation zu</string>
+    <string name="nav_recipe">Rezepte</string>
+    <string name="nav_ingredient">Zutaten</string>
+    <string name="nav_meal_plan">Essensplan</string>
 
     <string-array name="navigation_drawer_items_array">
         <item>Rezepte</item>

@@ -3,8 +3,11 @@
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
+        <!--    colorPrimary = Highlight bei Suche in Navigation   -->
         <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!--   Dark ist die Farbe der Leiste mit Akku, Notifications etc     -->
+        <item name="colorPrimaryDark">@android:color/holo_blue_light</item>
+        <!--    Das weiß ich noch nicht    -->
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 

@@ -36,18 +36,18 @@ import android.view.View;
 import android.widget.Toast;
 
 import androidx.annotation.NonNull;
-import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
 
-import com.rr.kitchenHelp.R;
-import com.rr.kitchenHelp.cameraUtils.ui.camera.CameraSource;
-import com.rr.kitchenHelp.cameraUtils.ui.camera.CameraSourcePreview;
-import com.rr.kitchenHelp.cameraUtils.ui.camera.GraphicOverlay;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GoogleApiAvailability;
 import com.google.android.gms.vision.text.TextBlock;
 import com.google.android.gms.vision.text.TextRecognizer;
 import com.google.android.material.snackbar.Snackbar;
+import com.rr.kitchenHelp.BaseActivity;
+import com.rr.kitchenHelp.R;
+import com.rr.kitchenHelp.cameraUtils.ui.camera.CameraSource;
+import com.rr.kitchenHelp.cameraUtils.ui.camera.CameraSourcePreview;
+import com.rr.kitchenHelp.cameraUtils.ui.camera.GraphicOverlay;
 
 import java.io.File;
 import java.io.IOException;
@@ -58,7 +58,7 @@ import java.util.Locale;
  * rear facing camera. During detection overlay graphics are drawn to indicate the position,
  * size, and contents of each TextBlock.
  */
-public final class OcrCaptureActivity extends AppCompatActivity {
+public final class OcrCaptureActivity extends BaseActivity {
     // Constants used to pass extra data in the intent
     public static final String AutoFocus = "AutoFocus";
     public static final String UseFlash = "UseFlash";
@@ -86,7 +86,7 @@ public final class OcrCaptureActivity extends AppCompatActivity {
     public void onCreate(Bundle bundle) {
         super.onCreate(bundle);
         setContentView(R.layout.activity_camera);
-
+        initializeDefaultToolbar();
         preview = (CameraSourcePreview) findViewById(R.id.preview);
         graphicOverlay = (GraphicOverlay<OcrGraphic>) findViewById(R.id.graphicOverlay);
 

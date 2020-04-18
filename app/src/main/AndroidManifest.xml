@@ -26,7 +26,8 @@
 
         <activity
             android:name="com.rr.kitchenHelp.cameraUtils.OcrCaptureActivity"
-            android:parentActivityName="com.rr.kitchenHelp.MainActivity">
+            android:parentActivityName="com.rr.kitchenHelp.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.rr.kitchenHelp.MainActivity" />
