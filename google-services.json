@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "953277710768",
+    "firebase_url": "https://kitchenhelp-58395.firebaseio.com",
+    "project_id": "kitchenhelp-58395",
+    "storage_bucket": "kitchenhelp-58395.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953277710768:android:35295212c80da68007d675",
+        "android_client_info": {
+          "package_name": "com.rr.kitchenHelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953277710768-rvod08lo14qht9satpnm9u9v1la822q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw_YfHWfpz5Nio77rxrzMd0G22tHPJVj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953277710768-rvod08lo14qht9satpnm9u9v1la822q8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
