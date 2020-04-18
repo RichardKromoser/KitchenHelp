@@ -32,7 +32,9 @@
                 android:value="com.rr.kitchenHelp.MainActivity" />
         </activity>
 
-        <activity android:name="com.rr.kitchenHelp.MainActivity">
+        <activity
+            android:name="com.rr.kitchenHelp.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
