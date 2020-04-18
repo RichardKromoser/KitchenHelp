@@ -5,4 +5,14 @@
     android:layout_height="wrap_content"
     app:titleTextColor="@android:color/white"
     android:background="@android:color/holo_blue_light"
-    xmlns:app="http://schemas.android.com/apk/res-auto" />
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:id="@+id/toolbar_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/toolbar_title"
+        android:textColor="@android:color/white"
+        style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title" />
+
+</androidx.appcompat.widget.Toolbar>
