@@ -8,18 +8,18 @@
     tools:context=".cameraUtils.OcrCaptureActivity">
 
 
-    <com.example.kitchenHelp.cameraUtils.ui.camera.CameraSourcePreview
+    <com.rr.kitchenHelp.cameraUtils.ui.camera.CameraSourcePreview
         android:id="@+id/preview"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginTop="0dp">
 
-        <com.example.kitchenHelp.cameraUtils.ui.camera.GraphicOverlay
+        <com.rr.kitchenHelp.cameraUtils.ui.camera.GraphicOverlay
             android:id="@+id/graphicOverlay"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
 
-    </com.example.kitchenHelp.cameraUtils.ui.camera.CameraSourcePreview>
+    </com.rr.kitchenHelp.cameraUtils.ui.camera.CameraSourcePreview>
 
     <include
         layout="@layout/toolbar_main"

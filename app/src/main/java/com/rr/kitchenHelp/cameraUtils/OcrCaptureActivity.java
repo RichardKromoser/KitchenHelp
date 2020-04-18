@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.kitchenHelp.cameraUtils;
+package com.rr.kitchenHelp.cameraUtils;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
@@ -39,10 +39,10 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
 
-import com.example.kitchenHelp.R;
-import com.example.kitchenHelp.cameraUtils.ui.camera.CameraSource;
-import com.example.kitchenHelp.cameraUtils.ui.camera.CameraSourcePreview;
-import com.example.kitchenHelp.cameraUtils.ui.camera.GraphicOverlay;
+import com.rr.kitchenHelp.R;
+import com.rr.kitchenHelp.cameraUtils.ui.camera.CameraSource;
+import com.rr.kitchenHelp.cameraUtils.ui.camera.CameraSourcePreview;
+import com.rr.kitchenHelp.cameraUtils.ui.camera.GraphicOverlay;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GoogleApiAvailability;
 import com.google.android.gms.vision.text.TextBlock;

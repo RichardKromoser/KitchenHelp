@@ -1,4 +1,4 @@
-package com.example.kitchenHelp;
+package com.rr.kitchenHelp;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -11,11 +11,11 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.SearchView;
 import androidx.appcompat.widget.Toolbar;
 
-import com.example.kitchenHelp.cameraUtils.OcrCaptureActivity;
+import com.rr.kitchenHelp.cameraUtils.OcrCaptureActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static final String EXTRA_MESSAGE = "com.example.kitchenHelp.MESSAGE";
+    public static final String EXTRA_MESSAGE = "com.rr.kitchenHelp.MESSAGE";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

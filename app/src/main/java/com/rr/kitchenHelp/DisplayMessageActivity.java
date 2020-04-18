@@ -1,4 +1,4 @@
-package com.example.kitchenHelp;
+package com.rr.kitchenHelp;
 
 import android.content.Intent;
 import android.os.Bundle;

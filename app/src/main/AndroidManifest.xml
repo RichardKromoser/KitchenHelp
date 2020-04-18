@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.kitchenHelp">
+    package="com.rr.kitchenHelp">
 
     <uses-feature android:name="android.hardware.camera" />
 
@@ -17,22 +17,22 @@
             android:name="com.google.android.gms.vision.DEPENDENCIES"
             android:value="ocr" />
         <activity
-            android:name="com.example.kitchenHelp.DisplayMessageActivity"
-            android:parentActivityName="com.example.kitchenHelp.MainActivity">
+            android:name="com.rr.kitchenHelp.DisplayMessageActivity"
+            android:parentActivityName="com.rr.kitchenHelp.MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.kitchenHelp.MainActivity" />
+                android:value="com.rr.kitchenHelp.MainActivity" />
         </activity>
 
         <activity
-            android:name="com.example.kitchenHelp.cameraUtils.OcrCaptureActivity"
-            android:parentActivityName="com.example.kitchenHelp.MainActivity">
+            android:name="com.rr.kitchenHelp.cameraUtils.OcrCaptureActivity"
+            android:parentActivityName="com.rr.kitchenHelp.MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.kitchenHelp.MainActivity" />
+                android:value="com.rr.kitchenHelp.MainActivity" />
         </activity>
 
-        <activity android:name="com.example.kitchenHelp.MainActivity">
+        <activity android:name="com.rr.kitchenHelp.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
