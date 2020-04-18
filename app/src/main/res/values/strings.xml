@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kitchen Help</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_camera">Kamera öffnen</string>
+    <string name="permission_camera_rationale">Berechtigung für Kamera muss gegeben sein</string>
+    <string name="ok">OK</string>
+    <string name="low_storage_error">Zu wenig Speicherplatz vorhanden</string>
+    <string name="no_camera_permission">Die App braucht Zugriff auf die Kamera</string>
+</resources>
