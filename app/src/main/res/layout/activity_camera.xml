@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:keepScreenOn="true"
-    tools:context=".CameraActivity">
+    tools:context=".cameraUtils.OcrCaptureActivity">
 
     <com.example.kitchenHelp.cameraUtils.ui.camera.CameraSourcePreview
         android:id="@+id/preview"
