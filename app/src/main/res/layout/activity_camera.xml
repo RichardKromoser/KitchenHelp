@@ -3,13 +3,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:keepScreenOn="true"
-    tools:context=".CameraActivity">
+    tools:context=".cameraUtils.OcrCaptureActivity">
+
 
     <com.example.kitchenHelp.cameraUtils.ui.camera.CameraSourcePreview
         android:id="@+id/preview"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:layout_marginTop="0dp">
 
         <com.example.kitchenHelp.cameraUtils.ui.camera.GraphicOverlay
             android:id="@+id/graphicOverlay"
@@ -17,5 +20,12 @@
             android:layout_height="match_parent" />
 
     </com.example.kitchenHelp.cameraUtils.ui.camera.CameraSourcePreview>
+
+    <include
+        layout="@layout/toolbar_main"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
