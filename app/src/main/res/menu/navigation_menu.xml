@@ -14,5 +14,9 @@
             android:id="@+id/fragment_meal_plan"
             android:title="@string/nav_meal_plan"
             android:icon="@android:drawable/ic_menu_call" />
+        <item
+            android:id="@+id/fragment_test"
+            android:title="@string/nav_test"
+            android:icon="@android:drawable/ic_input_delete" />
     </group>
 </menu>

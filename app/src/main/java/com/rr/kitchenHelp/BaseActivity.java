@@ -18,6 +18,7 @@ import com.google.android.material.navigation.NavigationView;
 import com.rr.kitchenHelp.fragments.IngredientFragment;
 import com.rr.kitchenHelp.fragments.MealPlanFragment;
 import com.rr.kitchenHelp.fragments.RecipeFragment;
+import com.rr.kitchenHelp.fragments.TestFragment;
 
 public abstract class BaseActivity extends AppCompatActivity {
 
@@ -45,9 +46,9 @@ public abstract class BaseActivity extends AppCompatActivity {
 
         NavigationView navigationView = findViewById(R.id.nav_view);
         // Rezepte ist die Startseite
-        getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, new RecipeFragment()).commit();
+        getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, new TestFragment()).commit();
 
-        navigationView.setCheckedItem(R.id.fragment_recipe);
+        navigationView.setCheckedItem(R.id.fragment_test);
         navigationView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem menuItem) {
@@ -62,6 +63,9 @@ public abstract class BaseActivity extends AppCompatActivity {
                         break;
                     case R.id.fragment_meal_plan:
                         fragment = new MealPlanFragment();
+                        break;
+                    case R.id.fragment_test:
+                        fragment = new TestFragment();
                         break;
                     default:
                         break;
