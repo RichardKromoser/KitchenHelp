@@ -1,5 +1,6 @@
 package com.rr.kitchenHelp.ViewHolder;
 
+import android.util.Log;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -23,6 +24,15 @@ public class RecipeViewHolder extends BaseViewHolder {
         super(itemView);
         this.recipePicture = itemView.findViewById(R.id.recipe_thumbnail);
         this.recipeTitle = itemView.findViewById(R.id.recipe_title);
+        itemView.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                //Was soll passieren wenn man die Karte anklickt
+                Log.d("RecipeViewHolder", recipeList.get(getCurrentPosition()).getName());
+
+            }
+        });
     }
 
     @Override
