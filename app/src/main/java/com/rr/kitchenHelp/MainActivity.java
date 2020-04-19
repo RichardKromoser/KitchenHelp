@@ -2,6 +2,7 @@ package com.rr.kitchenHelp;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.EditText;
 
@@ -67,5 +68,19 @@ public class MainActivity extends BaseActivity {
                 editText.setText(returnedResult);
             }
         }
+    }
+
+    public void addRecipe() {
+        Intent intent = new Intent(this, AddRecipeActivity.class);
+        startActivity(intent);
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        int id = item.getItemId();
+        if (id == R.id.action_add_recipe) {
+            addRecipe();
+        }
+        return true;
     }
 }

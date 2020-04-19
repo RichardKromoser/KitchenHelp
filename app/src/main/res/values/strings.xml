@@ -16,6 +16,7 @@
     <string name="nav_ingredient">Zutaten</string>
     <string name="nav_meal_plan">Essensplan</string>
     <string name="nav_test">Test</string>
+    <string name="add_recipe">Rezept hinzufügen</string>
 
     <string-array name="navigation_drawer_items_array">
         <item>Rezepte</item>
