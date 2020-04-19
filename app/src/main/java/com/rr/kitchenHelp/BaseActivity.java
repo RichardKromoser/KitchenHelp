@@ -102,19 +102,22 @@ public abstract class BaseActivity extends AppCompatActivity {
         if (!searchVisible) {
             searchItem.setVisible(false);
         }
+        searchView.setQueryHint("Suchen...");
         // Configure the Search info and add event listener
 
         MenuItem.OnActionExpandListener expandListener = new MenuItem.OnActionExpandListener() {
 
             @Override
             public boolean onMenuItemActionExpand(MenuItem item) {
-                // Do something when action item collapses
+                // Do something when action item expands
+//                item
                 return true;  // Return true to collapse action view
             }
 
             @Override
             public boolean onMenuItemActionCollapse(MenuItem item) {
-                // Do something when expanded
+                // Do something when collapse
+                Log.d("BaseActivity", "onMenuItemActionCollapse");
                 return true;  // Return true to expand action view
             }
         };
