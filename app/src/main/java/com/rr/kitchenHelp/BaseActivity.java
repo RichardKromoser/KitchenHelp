@@ -23,6 +23,11 @@ public abstract class BaseActivity extends AppCompatActivity {
 
     public DrawerLayout drawerLayout;
     private Toolbar toolbar;
+    private boolean searchVisible = true;
+
+    public void setSearchVisible(boolean searchVisible) {
+        this.searchVisible = searchVisible;
+    }
 
     public void initializeDefaultToolbar() {
         toolbar = findViewById(R.id.toolbar_main);
@@ -94,6 +99,9 @@ public abstract class BaseActivity extends AppCompatActivity {
         MenuItem searchItem = menu.findItem(R.id.action_search);
         SearchView searchView = (SearchView) searchItem.getActionView();
 
+        if (!searchVisible) {
+            searchItem.setVisible(false);
+        }
         // Configure the Search info and add event listener
 
         MenuItem.OnActionExpandListener expandListener = new MenuItem.OnActionExpandListener() {
