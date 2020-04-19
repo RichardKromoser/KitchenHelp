@@ -14,6 +14,8 @@
     <style name="AppTheme.NoActionBar">
         <item name="windowNoTitle">true</item>
         <item name="windowActionBar">false</item>
+        <!--  Farbe des Burgermenus, und Zurückpfeile      -->
+        <item name="colorControlNormal">@android:color/white</item>
     </style>
 
 </resources>
