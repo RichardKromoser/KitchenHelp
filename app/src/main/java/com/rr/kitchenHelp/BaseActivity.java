@@ -45,7 +45,7 @@ public abstract class BaseActivity extends AppCompatActivity {
 
 
         NavigationView navigationView = findViewById(R.id.nav_view);
-        // Rezepte ist die Startseite
+        // Test ist die Startseite
         getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, new TestFragment()).commit();
 
         navigationView.setCheckedItem(R.id.fragment_test);
