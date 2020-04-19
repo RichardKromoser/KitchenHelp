@@ -1,44 +1,16 @@
 package com.rr.kitchenHelp;
 
 import android.content.Intent;
-import android.content.ReceiverCallNotAllowedException;
-import android.nfc.Tag;
 import android.os.Bundle;
-import android.util.Log;
-import android.view.MenuItem;
 import android.view.View;
 import android.widget.EditText;
 
-import androidx.annotation.NonNull;
-import androidx.core.view.GravityCompat;
-import androidx.fragment.app.Fragment;
-import androidx.fragment.app.FragmentManager;
-
-import com.google.firebase.database.ChildEventListener;
-import com.google.firebase.database.DataSnapshot;
-import com.google.firebase.database.DatabaseError;
-import com.google.firebase.database.DatabaseReference;
-import com.google.firebase.database.FirebaseDatabase;
-import com.google.firebase.database.Query;
-import com.google.firebase.database.ValueEventListener;
-import com.google.android.material.navigation.NavigationView;
 import com.rr.kitchenHelp.cameraUtils.OcrCaptureActivity;
-import com.rr.kitchenHelp.dto.Category;
-import com.rr.kitchenHelp.dto.Ingredient;
-import com.rr.kitchenHelp.dto.Recipe;
-import com.rr.kitchenHelp.fragments.IngredientFragment;
-import com.rr.kitchenHelp.fragments.MealPlanFragment;
-import com.rr.kitchenHelp.fragments.RecipeFragment;
-
-import java.net.DatagramSocket;
-import java.util.ArrayList;
-
 public class MainActivity extends BaseActivity {
 
     public static final String EXTRA_MESSAGE = "com.rr.kitchenHelp.MESSAGE";
     private static final String TAG = "MainActivity";
-    private DatabaseReference mDatabase;
-    private FirebaseDatabase database;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -46,24 +18,11 @@ public class MainActivity extends BaseActivity {
         setContentView(R.layout.activity_main);
         initializeDefaultToolbar();
         initializeDefaultDrawer();
+        initializeDatabase();
 
-        database = FirebaseDatabase.getInstance();
-        mDatabase = database.getReference();
 
-        mDatabase.addValueEventListener(new ValueEventListener() {
-            @Override
-            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
-
-                showdata(dataSnapshot);
-            }
-
-            @Override
-            public void onCancelled(@NonNull DatabaseError databaseError) {
-
-            }
-        });
         /*Query qu = mDatabase.child("menu").orderByChild("recipe").equalTo("1");
-        qu.addValueEventListener(new ValueEventListener() {
+        q.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
                 // This method is called once with the initial value and again
@@ -79,23 +38,6 @@ public class MainActivity extends BaseActivity {
             }
         });*/
 
-    }
-
-    private void showdata(DataSnapshot dataSnapshot) {
-        DataSnapshot dSh = dataSnapshot.child("ingredients");
-        Log.d(TAG,dSh.getValue().toString());
-        for (DataSnapshot d : dSh.getChildren()) {
-            Ingredient ig = d.getValue(Ingredient.class);
-            Log.d(TAG,ig.getName());
-        }
-        dSh = dataSnapshot.child("recipes");
-        Log.d(TAG,dSh.getValue().toString());
-        for (DataSnapshot d : dSh.getChildren()) {
-            Recipe re = d.getValue(Recipe.class);
-            Log.d(TAG,re.getName());
-            Log.d(TAG,re.getCategory());
-        }
-        Log.d(TAG,"hello world");
     }
 
 

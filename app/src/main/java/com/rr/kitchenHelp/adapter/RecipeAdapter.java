@@ -8,28 +8,20 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.rr.kitchenHelp.R;
 import com.rr.kitchenHelp.ViewHolder.BaseViewHolder;
 import com.rr.kitchenHelp.ViewHolder.RecipeViewHolder;
+import com.rr.kitchenHelp.dto.Recipe;
 
 import java.util.List;
 
 
 public class RecipeAdapter extends RecyclerView.Adapter<BaseViewHolder> {
-    private List<String> dataset;
+    private List<Recipe> dataset;
 
     //Provide a reference to the views for each data item
     //Complex data items need more than one view per item and
     //you provide access to all views for a data item in a view holder
-//    public static class RecipeViewHolder extends RecyclerView.ViewHolder {
-    // each data is just a string for this example
-//        public TextView textView;
-//        public RecipeViewHolder(TextView textView) {
-//            super(textView);
-//            this.textView = textView;
-//        }
-
-//    }
 
     //Provide a suitable Constructor, depends on the dataset
-    public RecipeAdapter(List<String> dataset) {
+    public RecipeAdapter(List<Recipe> dataset) {
         this.dataset = dataset;
     }
 
@@ -38,7 +30,7 @@ public class RecipeAdapter extends RecyclerView.Adapter<BaseViewHolder> {
     public BaseViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
         //Create a new View
         RecipeViewHolder vh = new RecipeViewHolder(LayoutInflater.from(parent.getContext()).inflate(R.layout.single_recipe, parent, false));
-        vh.setDataset(dataset);
+        vh.setRecipeList(dataset);
         return vh;
     }
 

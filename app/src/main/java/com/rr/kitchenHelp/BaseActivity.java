@@ -15,16 +15,35 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 
 import com.google.android.material.navigation.NavigationView;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
+import com.rr.kitchenHelp.dto.Ingredient;
+import com.rr.kitchenHelp.dto.Recipe;
 import com.rr.kitchenHelp.fragments.IngredientFragment;
 import com.rr.kitchenHelp.fragments.MealPlanFragment;
 import com.rr.kitchenHelp.fragments.RecipeFragment;
 import com.rr.kitchenHelp.fragments.TestFragment;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public abstract class BaseActivity extends AppCompatActivity {
 
     public DrawerLayout drawerLayout;
     private Toolbar toolbar;
     private boolean searchVisible = true;
+    private DatabaseReference mDatabase;
+    private FirebaseDatabase database;
+    private static final String TAG = "BaseActivity";
+
+    public List<Recipe> getRecipeList() {
+        return recipeList;
+    }
+
+    private List<Recipe> recipeList = new ArrayList<>();
 
     public void setSearchVisible(boolean searchVisible) {
         this.searchVisible = searchVisible;
@@ -129,5 +148,41 @@ public abstract class BaseActivity extends AppCompatActivity {
         searchItem.setOnActionExpandListener(expandListener);
 
         return super.onCreateOptionsMenu(menu);
+    }
+
+    public void initializeDatabase() {
+        database = FirebaseDatabase.getInstance();
+        mDatabase = database.getReference();
+
+        mDatabase.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+
+                showdata(dataSnapshot);
+            }
+
+            @Override
+            public void onCancelled(@NonNull DatabaseError databaseError) {
+
+            }
+        });
+    }
+
+    private void showdata(DataSnapshot dataSnapshot) {
+        DataSnapshot dSh = dataSnapshot.child("ingredients");
+        Log.d(TAG, dSh.getValue().toString());
+        for (DataSnapshot d : dSh.getChildren()) {
+            Ingredient ig = d.getValue(Ingredient.class);
+            Log.d(TAG, ig.getName());
+        }
+        dSh = dataSnapshot.child("recipes");
+        Log.d(TAG, dSh.getValue().toString());
+        for (DataSnapshot d : dSh.getChildren()) {
+            Recipe re = d.getValue(Recipe.class);
+            recipeList.add(re);
+            Log.d(TAG, re.getName());
+            Log.d(TAG, re.getCategory());
+        }
+        Log.d(TAG, "hello world");
     }
 }
