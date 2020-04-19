@@ -125,7 +125,7 @@ public abstract class BaseActivity extends AppCompatActivity {
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.header_menu, menu);
         MenuItem searchItem = menu.findItem(R.id.action_search);
-        MenuItem recipeItem = menu.findItem(R.id.action_add_recipe);
+        final MenuItem recipeItem = menu.findItem(R.id.action_add_recipe);
         SearchView searchView = (SearchView) searchItem.getActionView();
 
         if (!searchVisible) {
@@ -142,14 +142,14 @@ public abstract class BaseActivity extends AppCompatActivity {
             @Override
             public boolean onMenuItemActionExpand(MenuItem item) {
                 // Do something when action item expands
-//                item
+                recipeItem.setVisible(false);
                 return true;  // Return true to collapse action view
             }
 
             @Override
             public boolean onMenuItemActionCollapse(MenuItem item) {
                 // Do something when collapse
-                Log.d("BaseActivity", "onMenuItemActionCollapse");
+                recipeItem.setVisible(true);
                 return true;  // Return true to expand action view
             }
         };
