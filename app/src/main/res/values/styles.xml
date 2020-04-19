@@ -30,9 +30,9 @@
         <!-- Search Icon Color if pressed on Search -->
         <item name="android:textColorSecondary">@android:color/white</item>
         <!-- Hint Color -->
-        <item name="android:textColorHint">@color/colorPrimaryDark</item>
+        <item name="android:textColorHint">@android:color/white</item>
         <!-- Icon Color -->
-        <item name="searchHintIcon">@null</item>
+        <item name="android:tint">@android:color/white</item>
     </style>
 
 </resources>
