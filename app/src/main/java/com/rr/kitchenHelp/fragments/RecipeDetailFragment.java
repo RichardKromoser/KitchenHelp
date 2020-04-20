@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ListView;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import androidx.fragment.app.Fragment;
@@ -33,13 +33,22 @@ public class RecipeDetailFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.fragment_recipe_detail, container, false);
         TextView title = rootView.findViewById(R.id.recipe_detail_title);
+        if (recipeDetail == null) {
+            return rootView;
+        }
         title.setText(recipeDetail.getName());
         createIngredientList();
 
+        LinearLayout listViewReplacer = rootView.findViewById(R.id.recipe_ingredient_list);
         RecipeIngredientAdapter adapter = new RecipeIngredientAdapter(getActivity().getApplicationContext(), ingredientList);
 
-        ListView listView = rootView.findViewById(R.id.recipe_ingredient_list);
-        listView.setAdapter(adapter);
+        for (int i = 0; i < adapter.getCount(); i++) {
+            View view = adapter.getView(i, null, listViewReplacer);
+            listViewReplacer.addView(view);
+        }
+
+        TextView instructions = rootView.findViewById(R.id.recipe_instructions);
+        instructions.setText(recipeDetail.getInstructions());
 
         return rootView;
     }
@@ -52,7 +61,7 @@ public class RecipeDetailFragment extends Fragment {
             String piece = splittedIngredient[0];
             String unit = containsIngredientUnit(splittedIngredient[1]);
             String name;
-            if (unit.equalsIgnoreCase(" ")) {
+            if (unit.equalsIgnoreCase("")) {
                 name = splittedIngredient[1];
             } else {
                 name = splittedIngredient[2];
@@ -67,7 +76,7 @@ public class RecipeDetailFragment extends Fragment {
                 return ingredient;
             }
         }
-        return " ";
+        return "";
     }
 
 }

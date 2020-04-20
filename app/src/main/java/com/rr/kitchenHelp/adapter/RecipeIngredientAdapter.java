@@ -34,6 +34,9 @@ public class RecipeIngredientAdapter extends ArrayAdapter<RecipeIngredient> {
 
         piece.setText(recipeIngredient.getPiece());
         unit.setText(recipeIngredient.getUnit());
+        if (recipeIngredient.getUnit().equals("")) {
+            unit.setVisibility(View.VISIBLE);
+        }
         name.setText(recipeIngredient.getName());
 
         return convertView;
