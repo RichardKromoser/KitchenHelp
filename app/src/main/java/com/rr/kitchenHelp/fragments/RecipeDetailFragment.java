@@ -57,17 +57,28 @@ public class RecipeDetailFragment extends Fragment {
         String[] allIngredients = recipeDetail.getIngredients().split("\\|");
         for (int i = 0; i < allIngredients.length; i++) {
             String currentIngredient = allIngredients[i].trim();
-            String[] splittedIngredient = currentIngredient.split(" ", 3);
-            String piece = splittedIngredient[0];
-            String unit = containsIngredientUnit(splittedIngredient[1]);
+
+            String piece = getRemainingString(currentIngredient, 0, currentIngredient.indexOf(" "));
+            String rest = getRemainingString(currentIngredient, currentIngredient.indexOf(" "), currentIngredient.length());
+            String unit = containsIngredientUnit(getRemainingString(rest, 0, rest.indexOf(" ")));
             String name;
             if (unit.equalsIgnoreCase("")) {
-                name = splittedIngredient[1];
+                name = rest;
             } else {
-                name = splittedIngredient[2];
+                name = getRemainingString(rest, rest.indexOf(" "), rest.length());
             }
+            System.out.println(piece + " + " + unit + " + " + name);
             ingredientList.add(new RecipeIngredient(piece, unit, name));
         }
+    }
+
+    private String getRemainingString(String ingredientRow, int begin, int end) {
+        if (end == -1) {
+            return ingredientRow;
+        }
+        String remaining = ingredientRow.substring(begin, end);
+
+        return remaining.trim();
     }
 
     private String containsIngredientUnit(String ingredient) {
