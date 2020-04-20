@@ -57,7 +57,7 @@ public class RecipeDetailFragment extends Fragment {
         String[] allIngredients = recipeDetail.getIngredients().split("\\|");
         for (int i = 0; i < allIngredients.length; i++) {
             String currentIngredient = allIngredients[i].trim();
-            String[] splittedIngredient = currentIngredient.split(" ", 2);
+            String[] splittedIngredient = currentIngredient.split(" ", 3);
             String piece = splittedIngredient[0];
             String unit = containsIngredientUnit(splittedIngredient[1]);
             String name;
@@ -72,7 +72,8 @@ public class RecipeDetailFragment extends Fragment {
 
     private String containsIngredientUnit(String ingredient) {
         for (Unit value : Unit.values()) {
-            if (value.getShortName().equalsIgnoreCase(ingredient)) {
+            // < 3 zum sichergehen dass nicht sowas wie steinpilz gefunden wird, wegen st von stück
+            if (value.getShortName().equalsIgnoreCase(ingredient) && ingredient.length() < 3) {
                 return ingredient;
             }
         }

@@ -8,8 +8,9 @@
         android:id="@+id/recipe_ingredient_piece"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="16dp"
-        android:layout_marginTop="16dp"
+        android:background="@android:color/holo_blue_light"
+        android:gravity="end"
+        android:minWidth="25dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -17,8 +18,9 @@
         android:id="@+id/recipe_ingredient_unit"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="16dp"
-        android:layout_marginTop="16dp"
+        android:layout_marginStart="8dp"
+        android:background="@android:color/holo_blue_bright"
+        android:minWidth="25dp"
         app:layout_constraintStart_toEndOf="@+id/recipe_ingredient_piece"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -26,8 +28,8 @@
         android:id="@+id/recipe_ingredient_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="16dp"
-        android:layout_marginTop="16dp"
+        android:layout_marginStart="8dp"
+        android:background="@android:color/holo_blue_dark"
         app:layout_constraintStart_toEndOf="@+id/recipe_ingredient_unit"
         app:layout_constraintTop_toTopOf="parent" />
 
