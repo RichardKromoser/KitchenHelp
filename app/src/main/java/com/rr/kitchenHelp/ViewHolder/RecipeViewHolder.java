@@ -18,6 +18,13 @@ public class RecipeViewHolder extends BaseViewHolder {
     private ImageView recipePicture;
     private TextView recipeTitle;
 
+    public ImageView getRecipePicture() {
+        return recipePicture;
+    }
+
+    public void setRecipePicture(ImageView recipePicture) {
+        this.recipePicture = recipePicture;
+    }
 
     public void setRecipeList(List<Recipe> recipeList) {
         this.recipeList = recipeList;
