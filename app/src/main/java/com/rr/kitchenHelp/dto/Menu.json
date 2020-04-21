@@ -214,6 +214,46 @@
             "instructions": "",
             "name": "Sardninen in der Dose",
             "time": "1 Minute"
+        },
+        "27": {
+            "category": "SNACK",
+            "image": "/",
+            "ingredients": "",
+            "instructions": "",
+            "name": "Brokkoli mit Cashewnüssen",
+            "time": "5 Minuten"
+        },
+        "28": {
+            "category": "SNACK",
+            "image": "/",
+            "ingredients": "",
+            "instructions": "",
+            "name": "Blumenkohlpürree",
+            "time": "20 Minuten"
+        },
+        "29":{
+            "category": "SNACK",
+            "image": "/",
+            "ingredients": "",
+            "instructions": "",
+            "name": "Blumenkohlreis",
+            "time": "20 Minuten"
+        },
+        "30": {
+            "category": "MAIN_DISH",
+            "image": "/",
+            "ingredients": "",
+            "instructions": "",
+            "name": "Blumenkohl Lachs Sushi",
+            "time": "35 Minuten"
+        },
+        "31": {
+            "category": "SNACK",
+            "image": "/",
+            "ingredients": "",
+            "instructions": "",
+            "name": "Chai Bananensmoothie",
+            "time": "5 Minuten"
         }
     },
     "ingredients":{
