@@ -1,0 +1,229 @@
+{ 
+    "recipes":{
+        "0":{
+            "category": "SNACK",
+            "image": "/",
+            "ingredients": "80 ml Kokosnussöl| 55 g Mandelbutter|10 g Kokosflakes| 2 tsp Reissirup| 55 g Schokostücke",
+            "instructions": "Backblech mit Backpapier auslegen. Das Öl, die Mandelcreme, die Kokoschips und den Reissirup zusammenmischen und auf den Papier verteilen. Die Schokostücke verteilen und etwas Salz darüber streuen. Für 20 Minuten einfrieren und dann zerbrechen",
+            "name": "Mandelbutter Rinde",
+            "totalTime": "25 Minuten"
+        },
+        "1":{
+            "category": "SNACK",
+            "image": "/",
+            "ingredients": "142 g Mandeln (über Nacht eingeweicht)| 1/2 tsp Zimt",
+            "instructions": "Nach dem Einweichen die Mandeln in den Mixer geben und zerkleinern. (Optional) hierbei eine Vanilleshote hinzufügen. Nun 840ml Wasser hinzufügen und 1 Minute auf hoher Stufe mixen. Die Milch durch einen Filter in eine große Schüssel gießen. Mit viel Druck den letzten Rest der Milch herausdrücken. Die Milch in den Mixer zurückschütten und etwas Zimt und Salz dazu geben. Nun die Milch in ein Glas geben und im Kühlschrank lagern. Die Milch ist bis zu 3 Tage haltbar und sollte geschüttelt werden vor Gebrauch",
+            "name": "Mandelmilch",
+            "totalTime": "10 Minuten"
+        },
+        "2":{
+            "category": "SNACK",
+            "image": "/",
+            "ingredients": "1 Apfel| 10 g Mandelmus | 1/2 tsp Zimt ",
+            "instructions": "Die Äpfel schneiden und das Mus darauf verteilen",
+            "name": "Apfel mit Mandelbutter",
+            "totalTime": "2 Minuten"
+        },
+        "3":{
+            "category": "MAIN_DISH",
+            "image": "/",
+            "ingredients": "907 g Faschiertes| 2 tsp Salbei | 1 tsp Thymian | 1 tsp Rosmarin | 1 Apfel",
+            "instructions": "Den gerieben Apfel mit dem Hack vermengen und mit Salz und Pfeffer würzen. Mit den Händen Laibchen formen sodass ungefähr 15 Laibchen entstehen. In einer Pfanne gewünschtes Fett erhitzen. Die Laibchen für 4 Minuten auf jeder Seite anbraten bis sie braun sind",
+            "name": "Schweinefleischlaibchen mit Apfel",
+            "totalTime": "30 Minuten"
+        },
+        "4":{
+            "category": "SNACK",
+            "image": "/",
+            "ingredients": "80 ml Tamarisouce | 2 tbsp Reisessig | 2 tsp Sesamöl| 1 Scharlotte | 1 tsp Knoblauch | 1/2 Ingwer",
+            "instructions": "Mix alle Zutaten in einer Schüssel zusammen",
+            "name": "Asiatische Soße",
+            "totalTime": "5 Minuten"
+        },
+        "5":{
+            "category": "MAIN_DISH",
+            "image": "/",
+            "ingredients": "140 g Spargel | 1 Tomate",
+            "instructions": "Spargel mit Butter in der Pfanne anbraten bis er braun und zart ist. Würze mit Salz und Pfeffer und sofort essen",
+            "name": "Spargel",
+            "totalTime": "10 Minuten"
+        },
+        "6":{
+            "category": "SNACK",
+            "image": "/",
+            "ingredients": "120 ml Kokossahne | 30 g Kakaopulver | 1 tbsp Chiasamen | 2 tsp Reissirup | 1 tsp Vanille Essenz | 1/2 tsp Zimt | 2 Avocado",
+            "instructions": "Alle Zutaten und eine Prise Salz in den Mixer geben und mixen bis die Masse cremig ist. Das Mousse aufteilen und 2-3 Stunden kühlen",
+            "name": "Schokomousse",
+            "totalTime": "2 Stunden"
+        }, 
+        "7":{
+            "category": "MAIN_DISH",
+            "image": "/",
+            "ingredients": "450 g Krabben | 2 tbsp Mayonnaise | 8 Nori Blätter | 2 Scharlotten | 1 Avocado | 1 Gurke | 1 tbsp Limettensaft",
+            "instructions": "Mixe Krabbenfleisch, Mayonnaise, Schalotten und Limettensaft, Salz und Pfeffer in einer Schüssel zusammen. Nori Blätter mit der glänzenden Seite nach unten legen. 2 Esslöffel von der Masse diagonal von einer Ecke in die Mitte des Blattes legen. Avocadospalte und Gurkenspalte auf das Eck legen und dann zu einer Rolle formen. Sofort essen bevor das Nori Blatt weich wird",
+            "name": "Krabbenwraps mit Avocado",
+            "totalTime": "15 Minuten"
+        },
+        "8":{
+            "category": "MAIN_DISH",
+            "image": "/",
+            "ingredients": "450 g Süßkartoffel",
+            "instructions": "Ofen auf 205°C vorheizen und Backblech in die Mitte legen. In die Süßkartoffel mit einer Gabel Löcher stechen und auf einem Backblech mit Alufolie legen. Alternativ eine 'X' Form in die Süßkartoffel schneiden und Knoblauchzehen und Rosmarin füllen. Mit Öl oder Kochfett außen bestreichen und 45-50 Minuten backen bis sie weich sind. Solange sie noch weich sind schneide eine 'X' Form (falls noch nicht gemacht). Mit Butter, Kokosfett oder Butterschmalz begießen, mit Salz und Pfeffer würzen und servieren",
+            "name": "Gebackene Süßkartoffel",
+            "totalTime": "1 Stunde"
+        },
+        "9":{
+            "category": "SNACK",
+            "image": "/",
+            "ingredients": "120 ml Kokossahne | 1 tsp Vanille Essenz | 3 Bananen | 150 g gefrorene Erdbeeren",
+            "instructions": "Mixe alle Zutaten im Mixer für eine Minute und serviere",
+            "name": "Bananen Beeren Halbgefrorenes",
+            "totalTime": "5 Minuten"
+        },
+        "10":{
+            "category": "SNACK",
+            "image": "/",
+            "ingredients": "100 g Dunkle Schokolade (min.80%) | 25 g Kokosflocken | 4 Bananen",
+            "instructions": "Den Ofen auf 150°C vorheizen. Bananen längs auf einer Seite aufschneiden. Bananen gelichmäßig mit Kokosnuss und Schokolade füllen. Jede Banane in Alufolie einwickeln und auf Backpapier legen. Für 20-25 Minuten kochen oder bis die Schale schwarz ist und servieren",
+            "name": "Bananenboot",
+            "totalTime": "25 Minuten"
+        },
+        "11":{
+            "category": "BREAKFAST",
+            "image": "/",
+            "ingredients": "65.20 g Macadamianüsse | 360 ml Kokosmilch | 1 tsp Chiasamen | 6 g Kokosflocken | 1 tsp Zimt | 1/2 Banane | 1/2 Apfel | 37 g Blaubeeren",
+            "instructions": "Makadamia Nüsse klein hacken. Banane mit Kokosmilch pürieren und die Nüsse dazugeben. Chia Samen, Kokosflakes, Apfel und Zimt und für ein paar Minuten köcheln lassen. Serviere mit frischen Blaubeeren und extra Zimt",
+            "name": "Bananen Zimt Porridge",
+            "totalTime": "8 Minuten"
+        },
+        "12":{
+            "category": "SNACK",
+            "image": "/",
+            "ingredients": "75 g Pinienkerne | 60 ml Olivenöl | 2 tsp Knoblauch | 1 tbsp Zitronensaft ",
+            "instructions": "Alle Zutaten, Salz und Pfeffer im Mixer mixen. Probiere und würue nach Geschmack. Sofort servieren oder im Kühlschrank für eine Woche aufbewahren",
+            "name": "Basilikumpesto",
+            "totalTime": "5 Minuten"
+        },
+        "13":{
+            "category": "MAIN_DISH",
+            "image": "/",
+            "ingredients": "590 g Rindergulasch | 720 ml Kokosmilch | 1 tbsp Kümmel | 1 tbsp Currypulver | 1 tsp Kurkuma  | 450 g Kürbis | 1/2 Blumenkohl | 4 Zucchinis | 1 Zwiebel | 2 tsp Knoblauch | 1 Chili ",
+            "instructions": "Alle Zutaten im Schongarer für 7 Stunden auf niedriger Stufe kochen",
+            "name": "Rindfleischcurry",
+            "totalTime": "40 Minuten"
+        },
+        "14":{
+            "category": "MAIN_DISH",
+            "image": "/",
+            "ingredients": "151,2 g Gulaschfleisch|40 ml Rinderbrühe|0,3 EL Paprika|0,25 EL Tomatenmark|0,3 Lorbeerblätter|75,6 g Süßkartoffel(gewürfelt)|0,67 Karrotten(Scheiben)|0,33 grüne Paprika(gewürfelt)|0,33 Zwiebel(Scheiben)|0,33 tl Knoblauch(gepresst)|0,5 Tomaten(geviertelt)|1 Markknochen",
+            "instructions": "Alle Zutaten im Schongarer für 8 Stunden auf niedriger Stufe kochen",
+            "name": "Rindfleischgulasch",
+            "totalTime": "8 Stunden"
+        },
+        "15":{
+            "category": "MAIN_DISH",
+            "image": "/",
+            "ingredients": "900 g Rinderflanke | 55 g scharfe Soße | 2 tbsp Tamarisoße | 2 tsp Chilipulver| 1 tsp Knoblauchpulver | 1 tsp Zwiebelpulver ",
+            "instructions": "Klopfe das Fleisch, aber nicht zu dünn. Alle Zutaten mit einem Teelöffel Schwarzem Pfeffer zusammemischen. Das Fleisch komplett in die Marinade einlegen. Zudecken und im Kühlschrank für 8 Stunden kühlen. Lege das Backblech mit Alufolie aus und lege das Fleisch drauf, sodass sie nicht übereinander liegen. Für ca. 3 Stunden auf jeder Seite mit 80°C backen. Das Trockenfleisch ist fertig sobald das Fleisch komplett trocken ist",
+            "name": "Trockenfleisch",
+            "totalTime": "14 Stunden"
+        },
+        "16":{
+            "category": "MAIN_DISH",
+            "ingredients": "624 g Rinderleber | 240 g Malzena | 2 Zwiebel",
+            "instructions": "Leber mit kalten Wasser abwaschen. Grozügig Butter schmelzen. Zuerst Zwiebelringe anrösten und dann zur Seite stellen. Maisstärke mit Salz und Pfeffer in ein flaches Gefäß geben. Leber in der Maisstärke wenden und mit mehr Butter von beiden Seiten anbraten bis die Leber braun ist. Zwiebelringe dazugeben und auf mittlerer Hitze weiterbraten bis die Leber dir passt",
+            "name": "Rindsleber mit Zwiebel",
+            "totalTime": "45 Minuten"
+        },
+        "17":{
+            "category": "BREAKFAST",
+            "image": "/",
+            "ingredients": "4 Eier | 1 rote Paprika",
+            "instructions": "Großzügig Butter schmelzen und die Paprikaringe hinzugeben. Schlage 1 Ei in jeden Ring und würze mit Salz und Pfeffer",
+            "name": "Paprika Eierblumen",
+            "totalTime": "10 Minuten"
+        },
+        "18":{
+            "category": "SNACK",
+            "image": "/",
+            "ingredients": "397 g schwarze Bohnen | 960 ml Hühnerbrühe | 1.5 tsp Chilipulver | 1.5 tsp Kümmel | 1 Zwiebel | 3 tsp Knoblauch | 1 grüne Paprika | 1 rote Paprika | 1 gelbe Paprika ",
+            "instructions": "Bohnen abtropfen, trocknen und in eine Pfanne geben. Hühnerbrühe, 480ml Wasser und das Gemüse hinzugeben. Zum Kochen bringen, dann auf niedriger Hitze und zugedeckt für 1,5 Stunden köcheln lassen. Chili, Kümmel und Salz hinzugeben und gut umrühren. Deckel wieder drauf und nochmals für eine Stunde oder bis genug Flüssigkeit verschwunden ist köcheln lassen",
+            "name": "Schwarze Bohnen",
+            "totalTime": "2,5 Stunden"
+        },
+        "19":{
+            "category": "SNACK",
+            "image": "/",
+            "ingredients": "130 g Schwarzen-/Wildreis| 1 l Wasser",
+            "instructions": "Reis unter Wasser abwaschen und trocknen. Reis in eine Pfanne geben und pro 225 g Reis, 240 ml Wasser hinzugeben. Zum Kochen bringen. Sobald es zu kochen beginnt auf niedriger Hitze mit Deckel 45 Minuten köcheln lassen. Falls der Reis weich ist, siebe das überschüssige Wasser ab und fertig. Mit einer Gabel den Reis auflockern und mit Butter und Salz servieren. Oder mit einem Reiskocher pro 225 g Reis, 240-360 ml Wasser hinzugeben",
+            "name": "Schwarzer Wildreis",
+            "totalTime": "45 Minuten"
+        },
+        "20":{
+            "category": "SNACK",
+            "image": "/",
+            "ingredients": "2 Eier | 1/2 tsp Oregano | 1/2 tsp Paprika | 1 Blumenkohl",
+            "instructions": "Heize den Ofen auf 190°C vor. Blumenkohl im Mixer mixen bis er kleiner als Reis wird. Blumenkohl in einer Mikrowellenfesten Schüssel mit hoher Hitze für 4 Minuten kochen. Nach 2 Minuten einmal umrühren. Alternativ, Blumenkohl für 5 Minuten im Wasser kochen, absieben und abkühlen lassen. Den Blumenkohl danach in ein Geschirrtuch wickeln und so viel Wasser wie möglich herausdrücken. Blumenkohl und alle Zutaten mit Salz und Pfeffer in eine Schüssel geben und gut durchmischen. Bälle formen und diese auf ein Backblech mit Backpapier legen und flachdrücken. Auf jeder Seite für 10 Minuten backen. Für eine knusprige Kante den Tortilla auf jeder Seite kurz anbraten",
+            "name": "Blumenkohltortilla",
+            "totalTime": "30 Minuten"
+        },
+        "21":{
+            "category": "SNACK",
+            "image": "/",
+            "ingredients": "1 tsp Tamarisoße | 170 g Bok choy",
+            "instructions": "Butter soviel du willst erhitzen und den Bok Choy braten bis er weich ist. Tamari Soße hinzugeben und gut durchmischen. (Optional) Lieblingsgewürze hinzugeben",
+            "name": "Bok Choy",
+            "time": "5 Minuten"
+        },
+        "22":{
+            "category": "BREAKFAST",
+            "image": "/",
+            "ingredients": "198 g Würstchen | 4 Eier | 1 tsp Chilipulver | 1/2 tsp Oregano | 1/2 tsp Knoblauchpulver | 1 Zwiebel | 1/2 roter Paprika | 140 g Spinat | 170 g Süßkartoffel",
+            "instructions": "Ofen auf 200°C vorheizen. Süßkartoffelwürfel mit Olivenöl, Chili, Oregano, Knoblauchpulver, Salz und Pfeffer vermischen. Die Würfel auf ein Blech mit Backpapier legen und für 25 Minuten backen. Würstchen in einer Pfanne mit Kokosfett anbraten und währenddessen aufschneiden. Würstchen in eine Schüssel geben und Zwiebel und Paprika in der selben Pfanne anbraten und zum Würstchen geben. Spinat in der gleichen Pfanne anbraten und zu den restlichen Zutaten geben. Die Würfel auch hinzugeben und ein Spiegelei drüberlegen und servieren",
+            "name": "Frühstückspfanne mit Würstchen",
+            "time": "50 Minuten"
+        },
+        "23":{
+            "category": "BREAKFAST",
+            "image": "/",
+            "ingredients": "850 g Faschiertes | 240 ml Rinderbrühe | 400 g Dosentomaten | 1.5 tbsp Mehl | 1 tsp italienische Gewürze | 600 g Süßkartoffel | 3 Karotten | 120 g Erbsen | 1 Zwiebel | 2 tsp Knoblauch",
+            "instructions": "Alle Zutaten in den Schongarer geben und mit etwas Salz und Pfeffer würzen und umrühren. Deckel drauf und für 8 Stunden über Nacht auf niedrig kochen. Am Morgen nochmal umrühren und servieren",
+            "name": "Frühstückspfanne mit Rindfleisch",
+            "time": "40 Minuten"
+        },
+        "24":{
+            "category": "MAIN_DISH",
+            "image": "/",
+            "ingredients": "",
+            "instructions": "",
+            "name": "Brokkoli Quinoa Salat",
+            "time": "40 Minuten"
+        },
+        "25":{
+            "category": "SNACK",
+            "image": "/",
+            "ingredients": "",
+            "instructions": "",
+            "name": "Rosenkohlchips",
+            "time": "30 Minuten"
+        },
+        "26":{
+            "category": "SNACK",
+            "image": "/",
+            "ingredients": "",
+            "instructions": "",
+            "name": "Sardninen in der Dose",
+            "time": "1 Minute"
+        }
+    },
+    "ingredients":{
+        "0":{
+            "foodType": "VEGETABLE",
+            "name": "Aubergine"
+        },
+        "1":{
+            "foodType": "SPICE",
+            "name": "Italienische Gewürze"
+        }
+    }    
+}

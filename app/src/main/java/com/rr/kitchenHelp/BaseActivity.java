@@ -183,6 +183,5 @@ public abstract class BaseActivity extends AppCompatActivity {
             Log.d(TAG, re.getName());
             Log.d(TAG, re.getCategory());
         }
-        Log.d(TAG, "hello world");
     }
 }
