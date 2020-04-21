@@ -2,7 +2,7 @@
     "recipes":{
         "0":{
             "category": "SNACK",
-            "image": "/",
+            "image": "gs://kitchenhelp-58395.appspot.com/ClarionHotelPrag-2016.PNG",
             "ingredients": "80 ml Kokosnussöl| 55 g Mandelbutter|10 g Kokosflakes| 2 tsp Reissirup| 55 g Schokostücke",
             "instructions": "Backblech mit Backpapier auslegen. Das Öl, die Mandelcreme, die Kokoschips und den Reissirup zusammenmischen und auf den Papier verteilen. Die Schokostücke verteilen und etwas Salz darüber streuen. Für 20 Minuten einfrieren und dann zerbrechen",
             "name": "Mandelbutter Rinde",

@@ -6,6 +6,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.EditText;
 
+import com.google.firebase.storage.FirebaseStorage;
 import com.rr.kitchenHelp.cameraUtils.OcrCaptureActivity;
 public class MainActivity extends BaseActivity {
 
@@ -20,24 +21,7 @@ public class MainActivity extends BaseActivity {
         initializeDefaultToolbar();
         initializeDefaultDrawer();
         initializeDatabase();
-
-
-        /*Query qu = mDatabase.child("menu").orderByChild("recipe").equalTo("1");
-        q.addValueEventListener(new ValueEventListener() {
-            @Override
-            public void onDataChange(DataSnapshot dataSnapshot) {
-                // This method is called once with the initial value and again
-                // whenever data at this location is updated.
-                Recipe value = dataSnapshot.getValue(Recipe.class);
-                Log.d(TAG, "Value is: " + value.getName());
-            }
-
-            @Override
-            public void onCancelled(DatabaseError error) {
-                // Failed to read value
-                Log.w(TAG, "Failed to read value.", error.toException());
-            }
-        });*/
+        FirebaseStorage storage = FirebaseStorage.getInstance("gs://kitchenhelp-58395.appspot.com");
 
     }
 
