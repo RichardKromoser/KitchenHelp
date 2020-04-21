@@ -35,6 +35,7 @@ public abstract class BaseActivity extends AppCompatActivity {
     public DrawerLayout drawerLayout;
     private Toolbar toolbar;
     private boolean searchVisible = true;
+    private boolean addRecipeVisible = true;
     private DatabaseReference mDatabase;
     private FirebaseDatabase database;
     private static final String TAG = "BaseActivity";
@@ -47,6 +48,10 @@ public abstract class BaseActivity extends AppCompatActivity {
 
     public void setSearchVisible(boolean searchVisible) {
         this.searchVisible = searchVisible;
+    }
+
+    public void setAddRecipeVisible(boolean addRecipeVisible) {
+        this.addRecipeVisible = addRecipeVisible;
     }
 
     public void initializeDefaultToolbar() {
@@ -120,10 +125,14 @@ public abstract class BaseActivity extends AppCompatActivity {
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.header_menu, menu);
         MenuItem searchItem = menu.findItem(R.id.action_search);
+        final MenuItem recipeItem = menu.findItem(R.id.action_add_recipe);
         SearchView searchView = (SearchView) searchItem.getActionView();
 
         if (!searchVisible) {
             searchItem.setVisible(false);
+        }
+        if (!addRecipeVisible) {
+            recipeItem.setVisible(false);
         }
         searchView.setQueryHint("Suchen...");
         // Configure the Search info and add event listener
@@ -133,14 +142,14 @@ public abstract class BaseActivity extends AppCompatActivity {
             @Override
             public boolean onMenuItemActionExpand(MenuItem item) {
                 // Do something when action item expands
-//                item
+                recipeItem.setVisible(false);
                 return true;  // Return true to collapse action view
             }
 
             @Override
             public boolean onMenuItemActionCollapse(MenuItem item) {
                 // Do something when collapse
-                Log.d("BaseActivity", "onMenuItemActionCollapse");
+                recipeItem.setVisible(true);
                 return true;  // Return true to expand action view
             }
         };

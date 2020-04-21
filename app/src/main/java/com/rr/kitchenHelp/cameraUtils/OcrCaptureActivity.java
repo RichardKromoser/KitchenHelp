@@ -88,6 +88,7 @@ public final class OcrCaptureActivity extends BaseActivity {
         setContentView(R.layout.activity_camera);
         initializeDefaultToolbar();
         setSearchVisible(false);
+        setAddRecipeVisible(false);
         preview = (CameraSourcePreview) findViewById(R.id.preview);
         graphicOverlay = (GraphicOverlay<OcrGraphic>) findViewById(R.id.graphicOverlay);
 

@@ -13,28 +13,35 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
-        <meta-data
-            android:name="com.google.android.gms.vision.DEPENDENCIES"
-            android:value="ocr" />
         <activity
-            android:name="com.rr.kitchenHelp.DisplayMessageActivity"
-            android:parentActivityName="com.rr.kitchenHelp.MainActivity">
+            android:name=".AddRecipeActivity"
+            android:parentActivityName=".MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.rr.kitchenHelp.MainActivity" />
         </activity>
 
+        <meta-data
+            android:name="com.google.android.gms.vision.DEPENDENCIES"
+            android:value="ocr" />
+
         <activity
-            android:name="com.rr.kitchenHelp.cameraUtils.OcrCaptureActivity"
-            android:parentActivityName="com.rr.kitchenHelp.MainActivity"
+            android:name=".DisplayMessageActivity"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.rr.kitchenHelp.MainActivity" />
+        </activity>
+        <activity
+            android:name=".cameraUtils.OcrCaptureActivity"
+            android:parentActivityName=".MainActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.rr.kitchenHelp.MainActivity" />
         </activity>
-
         <activity
-            android:name="com.rr.kitchenHelp.MainActivity"
+            android:name=".MainActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -42,8 +49,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-
     </application>
 
 </manifest>
