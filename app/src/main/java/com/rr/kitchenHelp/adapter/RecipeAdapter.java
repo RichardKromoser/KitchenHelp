@@ -43,8 +43,6 @@ public class RecipeAdapter extends RecyclerView.Adapter<RecipeViewHolder> {
         // - replace the contents of the view with that element
         holder.onBind(position);
 
-        Recipe currentRecipe = dataset.get(position);
-
         FirebaseStorage storage = FirebaseStorage.getInstance("gs://kitchenhelp-58395.appspot.com");
         StorageReference reference = storage.getReference();
         final StorageReference pathReference = reference.child("ClarionHotelPrag-2016.PNG");

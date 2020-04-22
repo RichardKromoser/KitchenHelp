@@ -5,11 +5,15 @@ import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import androidx.fragment.app.Fragment;
 
+import com.bumptech.glide.Glide;
+import com.google.firebase.storage.FirebaseStorage;
+import com.google.firebase.storage.StorageReference;
 import com.rr.kitchenHelp.R;
 import com.rr.kitchenHelp.RecipeIngredient;
 import com.rr.kitchenHelp.adapter.RecipeIngredientAdapter;
@@ -54,6 +58,17 @@ public class RecipeDetailFragment extends Fragment {
         } else {
             instructions.setText(recipeDetail.getInstructions());
         }
+
+        FirebaseStorage storage = FirebaseStorage.getInstance("gs://kitchenhelp-58395.appspot.com");
+        StorageReference reference = storage.getReference();
+        final StorageReference pathReference = reference.child("ClarionHotelPrag-2016.PNG");
+
+
+        Glide.with(getActivity().getApplicationContext())
+                .load(pathReference)
+                .into((ImageView) rootView.findViewById(R.id.recipe_image_detail));
+
+
 
         return rootView;
     }
