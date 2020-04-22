@@ -1,8 +1,5 @@
 package com.rr.kitchenHelp.dto;
 
-import android.graphics.Bitmap;
-
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -10,17 +7,17 @@ public class Recipe {
     private String image;
     private String category;
     private String name;
-    private String totalTime;
+    private String time;
     private String ingredients;
     private String instructions;
     //private List<String> ingredients= new ArrayList<>();
     //private List<String> instructions = new ArrayList<>();
 
-    public Recipe(String image, String instructions, String name, String ingredients, String totalTime, String category) {
+    public Recipe(String image, String instructions, String name, String ingredients, String time, String category) {
         this.image = image;
         this.category = category;
         this.name = name;
-        this.totalTime = totalTime;
+        this.time = time;
         this.ingredients=ingredients;
         this.instructions=instructions;
         //StringToList(ingredients, this.ingredients);
@@ -84,12 +81,12 @@ public class Recipe {
         this.instructions = instructions;
     }
 
-    public String getTotalTime() {
-        return totalTime;
+    public String getTime() {
+        return time;
     }
 
-    public void setTotalTime(String totalTime) {
-        this.totalTime = totalTime;
+    public void setTime(String time) {
+        this.time = time;
     }
 
     /*public void addIngredient(String ingredient) {

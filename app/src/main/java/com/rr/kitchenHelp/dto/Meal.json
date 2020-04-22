@@ -1,1816 +1,2018 @@
 [
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "80 ml Kokosnussöl| 55 g Mandelbutter|10 g Kokosflakes| 2 tsp Reissirup| 55 g Schokostücke",
         "instructions": "Backblech mit Backpapier auslegen. Das Öl, die Mandelcreme, die Kokoschips und den Reissirup zusammenmischen und auf den Papier verteilen. Die Schokostücke verteilen und etwas Salz darüber streuen. Für 20 Minuten einfrieren und dann zerbrechen",
         "name": "Mandelbutter Rinde",
         "time": "25 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "142 g Mandeln (über Nacht eingeweicht)| 1/2 tsp Zimt",
         "instructions": "Nach dem Einweichen die Mandeln in den Mixer geben und zerkleinern. (Optional) hierbei eine Vanilleshote hinzufügen. Nun 840ml Wasser hinzufügen und 1 Minute auf hoher Stufe mixen. Die Milch durch einen Filter in eine große Schüssel gießen. Mit viel Druck den letzten Rest der Milch herausdrücken. Die Milch in den Mixer zurückschütten und etwas Zimt und Salz dazu geben. Nun die Milch in ein Glas geben und im Kühlschrank lagern. Die Milch ist bis zu 3 Tage haltbar und sollte geschüttelt werden vor Gebrauch",
         "name": "Mandelmilch",
         "time": "10 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "1 Apfel| 10 g Mandelmus | 1/2 tsp Zimt ",
         "instructions": "Die Äpfel schneiden und das Mus darauf verteilen",
         "name": "Apfel mit Mandelbutter",
         "time": "2 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "907 g Faschiertes| 2 tsp Salbei | 1 tsp Thymian | 1 tsp Rosmarin | 1 Apfel",
         "instructions": "Den gerieben Apfel mit dem Hack vermengen und mit Salz und Pfeffer würzen. Mit den Händen Laibchen formen sodass ungefähr 15 Laibchen entstehen. In einer Pfanne gewünschtes Fett erhitzen. Die Laibchen für 4 Minuten auf jeder Seite anbraten bis sie braun sind",
         "name": "Schweinefleischlaibchen mit Apfel",
         "time": "30 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "80 ml Tamarisouce | 2 tbsp Reisessig | 2 tsp Sesamöl| 1 Scharlotte | 1 tsp Knoblauch | 1/2 Ingwer",
         "instructions": "Mix alle Zutaten in einer Schüssel zusammen",
         "name": "Asiatische Soße",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "140 g Spargel | 1 Tomate",
         "instructions": "Spargel mit Butter in der Pfanne anbraten bis er braun und zart ist. Würze mit Salz und Pfeffer und sofort essen",
         "name": "Spargel",
         "time": "10 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "120 ml Kokossahne | 30 g Kakaopulver | 1 tbsp Chiasamen | 2 tsp Reissirup | 1 tsp Vanille Essenz | 1/2 tsp Zimt | 2 Avocado",
         "instructions": "Alle Zutaten und eine Prise Salz in den Mixer geben und mixen bis die Masse cremig ist. Das Mousse aufteilen und 2-3 Stunden kühlen",
         "name": "Schokomousse",
         "time": "2 Stunden"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "450 g Krabben | 2 tbsp Mayonnaise | 8 Nori Blätter | 2 Scharlotten | 1 Avocado | 1 Gurke | 1 tbsp Limettensaft",
         "instructions": "Mixe Krabbenfleisch, Mayonnaise, Schalotten und Limettensaft, Salz und Pfeffer in einer Schüssel zusammen. Nori Blätter mit der glänzenden Seite nach unten legen. 2 Esslöffel von der Masse diagonal von einer Ecke in die Mitte des Blattes legen. Avocadospalte und Gurkenspalte auf das Eck legen und dann zu einer Rolle formen. Sofort essen bevor das Nori Blatt weich wird",
         "name": "Krabbenwraps mit Avocado",
         "time": "15 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "450 g Süßkartoffel",
         "instructions": "Ofen auf 205°C vorheizen und Backblech in die Mitte legen. In die Süßkartoffel mit einer Gabel Löcher stechen und auf einem Backblech mit Alufolie legen. Alternativ eine 'X' Form in die Süßkartoffel schneiden und Knoblauchzehen und Rosmarin füllen. Mit Öl oder Kochfett außen bestreichen und 45-50 Minuten backen bis sie weich sind. Solange sie noch weich sind schneide eine 'X' Form (falls noch nicht gemacht). Mit Butter, Kokosfett oder Butterschmalz begießen, mit Salz und Pfeffer würzen und servieren",
         "name": "Gebackene Süßkartoffel",
         "time": "1 Stunde"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "120 ml Kokossahne | 1 tsp Vanille Essenz | 3 Bananen | 150 g gefrorene Erdbeeren",
         "instructions": "Mixe alle Zutaten im Mixer für eine Minute und serviere",
         "name": "Bananen Beeren Halbgefrorenes",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "100 g Dunkle Schokolade (min.80%) | 25 g Kokosflocken | 4 Bananen",
         "instructions": "Den Ofen auf 150°C vorheizen. Bananen längs auf einer Seite aufschneiden. Bananen gelichmäßig mit Kokosnuss und Schokolade füllen. Jede Banane in Alufolie einwickeln und auf Backpapier legen. Für 20-25 Minuten kochen oder bis die Schale schwarz ist und servieren",
         "name": "Bananenboot",
         "time": "25 Minuten"
     },
+    ""
+    :
     {
-        "category": "0",
-        
+        "category": "BREAKFAST",
         "image": "/",
         "ingredients": "65.20 g Macadamianüsse | 360 ml Kokosmilch | 1 tsp Chiasamen | 6 g Kokosflocken | 1 tsp Zimt | 1/2 Banane | 1/2 Apfel | 37 g Blaubeeren",
         "instructions": "Makadamia Nüsse klein hacken. Banane mit Kokosmilch pürieren und die Nüsse dazugeben. Chia Samen, Kokosflakes, Apfel und Zimt und für ein paar Minuten köcheln lassen. Serviere mit frischen Blaubeeren und extra Zimt",
         "name": "Bananen Zimt Porridge",
         "time": "8 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "75 g Pinienkerne | 60 ml Olivenöl | 2 tsp Knoblauch | 1 tbsp Zitronensaft ",
         "instructions": "Alle Zutaten, Salz und Pfeffer im Mixer mixen. Probiere und würue nach Geschmack. Sofort servieren oder im Kühlschrank für eine Woche aufbewahren",
         "name": "Basilikumpesto",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "590 g Rindergulasch | 720 ml Kokosmilch | 1 tbsp Kümmel | 1 tbsp Currypulver | 1 tsp Kurkuma  | 450 g Kürbis | 1/2 Blumenkohl | 4 Zucchinis | 1 Zwiebel | 2 tsp Knoblauch | 1 Chili ",
         "instructions": "Alle Zutaten im Schongarer für 7 Stunden auf niedriger Stufe kochen",
         "name": "Rindfleischcurry",
         "time": "40 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "151,2 g Gulaschfleisch|40 ml Rinderbrühe|0,3 EL Paprika|0,25 EL Tomatenmark|0,3 Lorbeerblätter|75,6 g Süßkartoffel(gewürfelt)|0,67 Karrotten(Scheiben)|0,33 grüne Paprika(gewürfelt)|0,33 Zwiebel(Scheiben)|0,33 tl Knoblauch(gepresst)|0,5 Tomaten(geviertelt)|1 Markknochen",
         "instructions": "Alle Zutaten im Schongarer für 8 Stunden auf niedriger Stufe kochen",
         "name": "Rindfleischgulasch",
         "time": "8 Stunden"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "900 g Rinderflanke | 55 g scharfe Soße | 2 tbsp Tamarisoße | 2 tsp Chilipulver| 1 tsp Knoblauchpulver | 1 tsp Zwiebelpulver ",
         "instructions": "Klopfe das Fleisch, aber nicht zu dünn. Alle Zutaten mit einem Teelöffel Schwarzem Pfeffer zusammemischen. Das Fleisch komplett in die Marinade einlegen. Zudecken und im Kühlschrank für 8 Stunden kühlen. Lege das Backblech mit Alufolie aus und lege das Fleisch drauf, sodass sie nicht übereinander liegen. Für ca. 3 Stunden auf jeder Seite mit 80°C backen. Das Trockenfleisch ist fertig sobald das Fleisch komplett trocken ist",
         "name": "Trockenfleisch",
         "time": "14 Stunden"
     },
+    ""
+    :
     {
-        "category": "1",
-        
-        "image": "/", 
+        "category": "MAIN_DISH",
+        "image": "/",
         "ingredients": "624 g Rinderleber | 240 g Malzena | 2 Zwiebel",
         "instructions": "Leber mit kalten Wasser abwaschen. Grozügig Butter schmelzen. Zuerst Zwiebelringe anrösten und dann zur Seite stellen. Maisstärke mit Salz und Pfeffer in ein flaches Gefäß geben. Leber in der Maisstärke wenden und mit mehr Butter von beiden Seiten anbraten bis die Leber braun ist. Zwiebelringe dazugeben und auf mittlerer Hitze weiterbraten bis die Leber dir passt",
         "name": "Rindsleber mit Zwiebel",
         "time": "45 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "340 g Rindersalat | 120 ml Olivenöl | handvoll Kresse | 2 kl. Gurken | 2 tsp Ingwer | 1 Scharlotte | 1 Birne | 60 ml Limettensaft",
         "instructions": "Backe, Grill oder brate das Fleisch an, lass es 10 Minuten rasten und schneide es in dünne Streifen. In einer Großen Schüssel mische Kresse, Gurke, Birne und die Rindsstreifen. In einer anderen Schüssel Olivenöl, Limettensaft, Knoblauch, Ingwer, Salz, Pfeffer und Schalloten mixen. Mixe das Dressing und den Salat und serviere",
         "name": "Rindfleischsalat",
         "time": "30 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "997 g Rinderknochen | 1 tsp Pfeffer | 2 Selleriestücke | 1 Zwiebel | 1 Karrotte | 1 Rübe | 1 Pastinake",
         "instructions": "Das restliche Fleisch vom Knochen lösen und das Fleisch kleinschneiden. Alle Zutaten, auch das Fleisch, in den Schongarer geben und ungefähr 2/3 mit Wasser füllen bis alle Zutaten bedeckt sind. Zugedeckt mit niedriger Hitze 10-12 Stunden kochen. Sobald fertig lege den Knochen zur Seite und siebe die Brühe ab. Sobald die Brühe abgekühlt ist, siebe das extra Fett ab. Friere die Brühe ein oder stelle sie in den Kühlschrank",
         "name": "Rinderbrühe",
         "time": "12 Stunden"
     },
+    ""
+    :
     {
-        "category": "0",
-        
+        "category": "BREAKFAST",
         "image": "/",
         "ingredients": "4 Eier | 1 rote Paprika",
         "instructions": "Großzügig Butter schmelzen und die Paprikaringe hinzugeben. Schlage 1 Ei in jeden Ring und würze mit Salz und Pfeffer",
         "name": "Paprika Eierblumen",
         "time": "10 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "397 g schwarze Bohnen | 960 ml Hühnerbrühe | 1.5 tsp Chilipulver | 1.5 tsp Kümmel | 1 Zwiebel | 3 tsp Knoblauch | 1 grüne Paprika | 1 rote Paprika | 1 gelbe Paprika ",
         "instructions": "Bohnen abtropfen, trocknen und in eine Pfanne geben. Hühnerbrühe, 480ml Wasser und das Gemüse hinzugeben. Zum Kochen bringen, dann auf niedriger Hitze und zugedeckt für 1,5 Stunden köcheln lassen. Chili, Kümmel und Salz hinzugeben und gut umrühren. Deckel wieder drauf und nochmals für eine Stunde oder bis genug Flüssigkeit verschwunden ist köcheln lassen",
         "name": "Schwarze Bohnen",
         "time": "2,5 Stunden"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "130 g Schwarzen-/Wildreis| 1 l Wasser",
         "instructions": "Reis unter Wasser abwaschen und trocknen. Reis in eine Pfanne geben und pro 225 g Reis, 240 ml Wasser hinzugeben. Zum Kochen bringen. Sobald es zu kochen beginnt auf niedriger Hitze mit Deckel 45 Minuten köcheln lassen. Falls der Reis weich ist, siebe das überschüssige Wasser ab und fertig. Mit einer Gabel den Reis auflockern und mit Butter und Salz servieren. Oder mit einem Reiskocher pro 225 g Reis, 240-360 ml Wasser hinzugeben",
         "name": "Schwarzer Wildreis",
         "time": "45 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "2 Eier | 1/2 tsp Oregano | 1/2 tsp Paprika | 1 Blumenkohl",
         "instructions": "Heize den Ofen auf 190°C vor. Blumenkohl im Mixer mixen bis er kleiner als Reis wird. Blumenkohl in einer Mikrowellenfesten Schüssel mit hoher Hitze für 4 Minuten kochen. Nach 2 Minuten einmal umrühren. Alternativ, Blumenkohl für 5 Minuten im Wasser kochen, absieben und abkühlen lassen. Den Blumenkohl danach in ein Geschirrtuch wickeln und so viel Wasser wie möglich herausdrücken. Blumenkohl und alle Zutaten mit Salz und Pfeffer in eine Schüssel geben und gut durchmischen. Bälle formen und diese auf ein Backblech mit Backpapier legen und flachdrücken. Auf jeder Seite für 10 Minuten backen. Für eine knusprige Kante den Tortilla auf jeder Seite kurz anbraten",
         "name": "Blumenkohltortilla",
         "time": "30 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "1 tsp Tamarisoße | 170 g Bok choy",
         "instructions": "Butter soviel du willst erhitzen und den Bok Choy braten bis er weich ist. Tamari Soße hinzugeben und gut durchmischen. (Optional) Lieblingsgewürze hinzugeben",
         "name": "Bok Choy",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "0",
-        
+        "category": "BREAKFAST",
         "image": "/",
         "ingredients": "198 g Würstchen | 4 Eier | 1 tsp Chilipulver | 1/2 tsp Oregano | 1/2 tsp Knoblauchpulver | 1 Zwiebel | 1/2 roter Paprika | 140 g Spinat | 170 g Süßkartoffel",
         "instructions": "Ofen auf 200°C vorheizen. Süßkartoffelwürfel mit Olivenöl, Chili, Oregano, Knoblauchpulver, Salz und Pfeffer vermischen. Die Würfel auf ein Blech mit Backpapier legen und für 25 Minuten backen. Würstchen in einer Pfanne mit Kokosfett anbraten und währenddessen aufschneiden. Würstchen in eine Schüssel geben und Zwiebel und Paprika in der selben Pfanne anbraten und zum Würstchen geben. Spinat in der gleichen Pfanne anbraten und zu den restlichen Zutaten geben. Die Würfel auch hinzugeben und ein Spiegelei drüberlegen und servieren",
         "name": "Frühstückspfanne mit Würstchen",
         "time": "50 Minuten"
     },
+    ""
+    :
     {
-        "category": "0",
-        
+        "category": "BREAKFAST",
         "image": "/",
         "ingredients": "850 g Faschiertes | 240 ml Rinderbrühe | 400 g Dosentomaten | 1.5 tbsp Mehl | 1 tsp italienische Gewürze | 600 g Süßkartoffel | 3 Karotten | 120 g Erbsen | 1 Zwiebel | 2 tsp Knoblauch",
         "instructions": "Alle Zutaten in den Schongarer geben und mit etwas Salz und Pfeffer würzen und umrühren. Deckel drauf und für 8 Stunden über Nacht auf niedrig kochen. Am Morgen nochmal umrühren und servieren",
         "name": "Frühstückspfanne mit Rindfleisch",
         "time": "40 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Brokkoli Quinoa Salat",
         "time": "40 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Rosenkohlchips",
         "time": "30 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Sardninen in der Dose",
         "time": "1 Minute"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Brokkoli mit Cashewnüssen",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Blumenkohlpürree",
         "time": "20 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Blumenkohlreis",
         "time": "20 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Blumenkohl Lachs Sushi",
         "time": "35 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Chai Bananensmoothie",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Chia Leinsamen Cracker",
         "time": "3,25 Stunden"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Chia Quinoa Parfait",
         "time": "2 Stunden"
     },
+    ""
+    :
     {
-        "category": "0",
-        
+        "category": "BREAKFAST",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Kaltes Chia Porridge",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Hühnercurry",
         "time": "6 Stunden"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Hühnerleber mit Zwiebel und Pilzen",
         "time": "45 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Hühner Reispapier Wraps",
         "time": "40 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Hühnerschnitzel",
         "time": "30 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Hühnersuppe",
         "time": "8 Stunden"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Hühnerbrühe",
         "time": "10 Stunden"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Hühner Stir Fry",
         "time": "25 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Kichererbsenpürree",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "453 g Faschiertes | 240 ml Rinderbrühe | 793 g  Dosentomaten | 425 g Kidneybohnen | 1 tbsp Chilipulver | 1 tsp Paprika | 1 tsp Kümmel | 1/2 tsp Marjoram | 2 tbsp Tomatenpaste | 1 Zwiebel | 2 tsp Knoblauch | 50 g frischen Koriander | 1 Limette",
         "instructions": "In einer gro0en Pfanne Öl erhitzen und die Zwiebel mit dem Knoblauch anbraten | 2. Nun das Faschierte, das Chili, Paprika und Kümmelpulver hinzufügen und mit Marjoram, Salz und Pfeffer abschmecken | 3. Jetzt die Bohnen und die Tomatenpaste dazu geben und mit der Rinderbrühe und den Dosentomaten aufgießen | 4. Reduziere die Hitze und lass es für 30 minuten köcheln | 5. Schmecke es erneut ab und serviere es mit einem Stück Limette  ",
         "name": "Chili con Carne",
         "time": "1,5 Stunden"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Geschnittener Chinakohl",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Dunkler Schokoriegel",
         "time": "1 Minute"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Schoko Chia Pudding",
         "time": "3 Stunden"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Schoko Schlammkuchen",
         "time": "1 Stunde"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Kokosnuss Avocado Eis",
         "time": "4 Stunden"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Hühnerstreifen mit Kokosnuss",
         "time": "20 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Thai Suppe mit Kokosnuss und Huhn",
         "time": "30 Minuten"
     },
+    ""
+    :
     {
-        "category": "0",
-        
+        "category": "BREAKFAST",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Granola mit Kokosnuss",
         "time": "30 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Shrimps mit Kokosnuss",
         "time": "1,5 Stunden"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Maiskolben",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Brokkoli Curry Suppe",
         "time": "40 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Hühner Curry Salat",
         "time": "15 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Teufelseier",
         "time": "10 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Protein Pulver",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Eiersalat",
         "time": "10 Minuten"
     },
+    ""
+    :
     {
-        "category": "0",
-        
+        "category": "BREAKFAST",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Eier Avocado Süßkartoffel Toast",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "0",
-        
+        "category": "BREAKFAST",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Shakhshuka",
         "time": "30 Minuten"
     },
+    ""
+    :
     {
-        "category": "0",
-        
+        "category": "BREAKFAST",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "5 Minuten Eier muffin",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "0",
-        
+        "category": "BREAKFAST",
         "image": "/" ,
         "ingredients": "",
         "instructions": "",
         "name": "Leinsamen Mandelmehl Porridge",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "0",
-        
+        "category": "BREAKFAST",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Leinsamen Mandelmehl Waffeln",
         "time": "10 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Leinsamenmilch",
         "time": "10 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Frische Tomaten",
         "time": "1 Minute"
     },
+    ""
+    :
     {
-        "category": "0",
-        
+        "category": "BREAKFAST",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Spiegelei, Würstchen und Kochbanane",
         "time": "25 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Hühnerflügel mit Knoblauch und Ingwer",
         "time": "30 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Shrimps, Reis und Spargel mit Knoblauch",
         "time": "15 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Grühne Bohnen mit Knoblauch",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Guacamole",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Schweinerinde",
         "time": "1,5 Stunden"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Kakao",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "0",
-        
+        "category": "BREAKFAST",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Warmes Chia Porridge",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Kohlchips",
         "time": "30 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Kimchi",
         "time": "15 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Kombucha",
         "time": "20 Minuten"
     },
+    ""
+    :
     {
-        "category": "0",
-        
+        "category": "BREAKFAST",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Kyms Smoothie",
         "time": "10 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Lammkeulen oder Rindskeulen",
         "time": "10 Stunden"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Salatburger mit Rind",
         "time": "20 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Salattacos mit Rind",
         "time": "30 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Leberpastete",
         "time": "35 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Kohlsalat",
         "time": "10 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Truthahn Fleischbällchen",
         "time": "45 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Senfdressing",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Pastinakenchips",
         "time": "30 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Schoko Eis",
         "time": "3 Stunden"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Mayonnaise",
         "time": "20 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Ranch Dressing",
         "time": "10 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Sour Cream",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Spaghetti aus Kürbis",
         "time": "1 Stunde"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Eingelegte Karrotenstreifen",
         "time": "30 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Lachs mit Pistazienkruste",
         "time": "20 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Kochbananenchips",
         "time": "45 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Schweinesalatschüsseln",
         "time": "30 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Schwein Tenderloin",
         "time": "40 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Gekochter Quinoa",
         "time": "30 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Huhn mit Reiskrümel",
         "time": "1 Stunde"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Roast Beef",
         "time": "3 Stunden"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Grillhähnchen",
         "time": "2 Stunden"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "gegrilltes Lamm oder Rind",
         "time": "1,5 Stunden"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "gegrillter Truthahn",
         "time": "3 Stunden"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "gegrillter Brokkoli",
         "time": "30 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "gegrillter Rosenkohl",
         "time": "45 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "gegrillte Aubergine",
         "time": "30 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "gegrillter Kürbis",
         "time": "45 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Fisch mit Fenchel, Rosmarin und Knoblauch",
         "time": "30 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Rosmarinmandeln",
         "time": "20 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Lachs mit Senfsoße",
         "time": "10 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Sauerkraut",
         "time": "15 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Baby Spinat",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "0",
-        
+        "category": "BREAKFAST",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Pikante Pancakes",
         "time": "35 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Popcorn",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Shrimpspieße",
         "time": "15 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Steak mit Chimichurri Soße",
         "time": "15 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Geschmortes Rind und Gemüse",
         "time": "10 Stunden"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Brownies im Schongarer",
         "time": "2,5 Stunden"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Butterhuhn im Schongarer",
         "time": "8 Stunden"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Rippchen im Schongarer",
         "time": "11 Stunden"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Spaghetti Squash",
         "time": "1 Stunde"
     },
+    ""
+    :
     {
-        "category": "0",
-        
+        "category": "BREAKFAST",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Steak mit Spiegelei",
         "time": "15 Minuten"
     },
+    ""
+    :
     {
-        "category": "0",
-        
+        "category": "BREAKFAST",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Gefüllte Paprika",
         "time": "55 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Sunshine Suppe",
         "time": "45 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Curly Fries aus Süßkartoffel",
         "time": "25 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "zerkleinerte Süßkartoffel",
         "time": "15 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Süßkartoffelpürree",
         "time": "15 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Mangold",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/" ,
         "ingredients": "",
         "instructions": "",
         "name": "Ketchup",
         "time": "2,5 Stunden"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Thunfisch Avocado Boote",
         "time": "10 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Thunfisch Lachs Seealgenwraps",
         "time": "10 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Truthahnsalat",
         "time": "10 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Rinder Stir Fry",
         "time": "30 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Gemüsebrühe",
         "time": "8 Stunden"
     },
+    ""
+    :
     {
-        "category": "0",
-        
+        "category": "BREAKFAST",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Rührei mit Gemüse",
         "time": "20 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Gemüsesticks",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Wasser mit Geschmack",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "",
         "instructions": "",
         "name": "Zoodles Bolognese",
         "time": "25 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "148,83 g Chicken Breast|30 g Mandelbutter|20 ml Tamari Soße|0,5 EL Kokosöl(geschmolzen)|0,5 EL Weisweinessig|0,5 tl Chiliflocken|0,25 Zwiebel(gewürfelt)|0,75 Zucchini(Spaghetti)|0,5 Karrotten(gerieben)|0,0625 Chinakohl(gerieben)|0,25 Rote Paprika(Streifen)|28,35 g Sprossen|0,5 tl Knoblauch(gehackt)|0,5 tl Ingwer(gehackt)|30 g Koriander(gehackt)",
         "instructions": "Bereite das Huhn nach Belieben zu(Grillen, Backen, Frittieren), lass es abkühlen und schneide es in mundgerechte Stücke. Bereite die Mandelbuttersoße zu indem man die Mandelbutter, Tamari, Kokosöl, Essig, Chiliflocken und Ingwer zusammenmischt. Bereite das stir-fry vor indem man Kokosfett in einer Pfanne erhitzt und den Zwiebel und Knoblauch für ein paar Minuten kocht. Füge die Karotten, Salat und Paprika hinzu und koche es für 3-4 Minuten. Füge das Huhn, Zoodles und Sprossen hinzu und koche nochmal 3-4 Minuten. Gieße die Soße darüber und rühre nochmal 4 Minuten um und serviere anschließend mit Koriander",
         "name": "Mandelbutterhuhn mit Zoodles",
         "time": "40 Minuten"
     },
+    ""
+    :
     {
-        "category": "0",
-        
+        "category": "BREAKFAST",
         "image": "/",
         "ingredients": "148,83 g Hühnerhack|0,5 EL Thymian|0,5 EL Oregano|0,5 tl Knoblauchpulver|0,75 EL Petersilie|0,25 Apfel(entschält, gewürfelt)",
         "instructions": "Erhitze Kochfett oder Öl in einer Pfanne. Gib Apfel, Thymian, Petersilie und Oregano hinzu und koche bis der Apfel weich ist, ca 7-8 Minuten. Lass es 5 Minuten ausküheln. Gib den Apfel und die Gewürze zum Huhn, Knoblauchpulver, Salz und Pfeffer hinzu. Zubereitung am Herd: Erhitze eine Pfanne und gib nochmals Kochfett hinzu. Nimm einen gehäuften Esslöffel und koche das Laibchen 5Minuten auf jeder Seite. Zubereitung im Ofen: Ofen auf 200°C vorheizen. Backblech einfetten und gehäufte Esslöffel der Mischung raufgeben. Öl über die Laibchen träuflen und 20-25 backen",
         "name": "Huhn und Apfel Laibchen",
         "time": "25 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "0,30 g Arepa-Mehl|0,25 tl Salz",
         "instructions": "Mixe das Mehl und Salz und mache ein Loch in der Mitte. Gieße 600 g warmes Wasser in das Loch. Mixe alles zusammen bis keine Klumpen bleiben. 5 Minuten rasten. Knete den Teig und teile in gleichmäßig auf. Rolle jedes Stück auf ca 1 cm aus. Erhitze einen EL Öl. Gib die Arepas hinzu und lasse 6-8 Minuten auf jeder Seite mit Deckel kochen bis sie braun sind",
         "name": "Arepas",
         "time": "40 Minuten"
     },
+    ""
+    :
     {
-        "category": "0",
-        
+        "category": "BREAKFAST",
         "image": "/",
         "ingredients": "2 Eier|1 Avocado(gehälftelt, Kern entfernt)",
         "instructions": "Ofen vorheizen auf 220°C. Ca EL auslöffeln damit das Ei Platz hat. Gib die Avocado ein eine kleine Form damit die Avocado nicht umfällt. Je 1 Ei in jedes Loch schlagen, Eigelb zuerst. Würze mit Salz und Pfeffer. Gib die Avocado in den Ofen und backe für 15-20 Minuten. Raus aus dem Ofen und sofort servieren",
         "name": "Avocado mit Spiegelei",
         "time": "25 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "2 Eier|225 g Mandelbutter|96,39 g Mandelmehl|1 tl Natron|1 tl Backpulver|3 Bananen(sehr reif)",
         "instructions": "Ofen auf 180°C vorheizen und Brotform einfetten. Zerdrücke die Bananen mit einer Gabel und gib Mandelbutter, Mandelmehl und Eier hinzu. Sobald das gut druchgemischt ist gib Natron und Backpulver hinzu und rühre gut um. Gib den Teig in die Brotform und backe es für 35-40 Minuten. Teste mit einem Zahnstocher ob das Brot fertig ist",
         "name": "Bananenbrot",
         "time": "50 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "1 Zucchini(Zoodles)|1 Karroten|0,5 Avocado|1 EL Limettensaft",
         "instructions": "Zerdrücke Avocado und Zitronensaft mit einer Gabel. Würze mit Salz und Pfeffer. Gib die Zoodles und Karotten hinzu",
         "name": "Zoodels mit Avocado",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "0,5 EL Olivenöl|0,75 Rote Beete(geschält)|0,5 Karotten|0,125 Rote Zwiebel|0,25 Äpfel|0,5 EL Koriander|0,25 EL Zitronensaft",
         "instructions": "Reibe die Rote Beete und Karotten. Würfel die Zwiebel, Äpfel und Koriander. Mixe das Gemüse zusammen und gieße das Öl und Zitronensaft darüber. Schmecke mit Salz und Pfeffer ab",
         "name": "Rote Beete Salat",
         "time": "10 Minuten"
     },
+    ""
+    :
     {
-        "category": "0",
-        
+        "category": "BREAKFAST",
         "image": "/",
         "ingredients": "113,4 g Würstchen|2 Eier|1 EL Mandelmilch|2 Tortillas|0,25 Rote Paprika(klein geschnitten)|0,125 Rote Zwiebel(klein geschnitten)|28,35 g Baby Spinat|1 Tomate(klein geschnitten)|0,5 Avocado(klein geschnitten)",
         "instructions": "Koche die Würstchen. Mixe Eier, Mandelmilch, Salz und Pfeffer.  Koche die Rote Zwiebel und Paprika in Butter bis sie weich sind. Gib Spinat und die Eier hinzu und rühre bis die Eier fertig sind. Fülle deine Tortillas mit dem Mix und gib Avocado und Tomaten hinzu",
         "name": "Frühstücksburritos",
         "time": "20 Minuten"
     },
+    ""
+    :
     {
-        "category": "0",
-        
+        "category": "BREAKFAST",
         "image": "/",
         "ingredients": "99,22 g Würstchen|2 Eier|30 ml Mandelmilch|0,125 tl Knoblauchpulver|70,87 g Baby Spinat|85,05 g Süßkartoffel(gewürfelt)|0,25 Rote Paprika(gewürfelt)|0,125 Rote Zwiebel(gewürfelt)",
         "instructions": "Heize den Ofen auf 180°C vor. Koch die Würstchen und gib sie in eine Schüssel. Koche die Süßkartoffelwürfel in einer Pfanne bis sie weich sind und gib sie zu den Würstchen. Koche die Rote Zwiebel und Paprika bis sie weich sind und gib sie zu den Würstchen. Koche den Spinat und gib ihn zu den Würstchen. In einer separaten Schüssel mixe die Eier, Mandelmilch, Knoblauchpulver, Salz und Pfeffer. Gib diese Mischung zu den anderen Zutaten. Gib den Mix in eine eingefettete ofenfeste Form und backe für 30 Minuten bis das Ei fertig ist",
         "name": "Frühstücksfrittata",
         "time": "1 Stunde"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "21,26 g Glutenfreies Mehl|0,125 tl Knoblauchpulver|30 ml Scharfe Soße|0,25 tl Reismalzsirup|0,5 Blumenkohl(mundgerechte Stücke)",
         "instructions": "Ofen auf 230°C vorheizen und Backblech mit Kokosöl einfetten. Mixe das Mehl, Knoblauchpulver, Wasser, Salz und Pfeffer und knete bis ein Teig entsteht. Das Verhältnis von Wasser zu Mehl variiert je nach Mehl aber ca 1 zu 1 ist ein guter Start. Gib den Blumenkohl hinzu bis er mit dem Teig bedeckt ist. Für 20-25 Minuten im Ofen backen bis er braun ist. Schmelze gute Portion Butter in einer Pfanne. Nimm die Pfanne von der Hitze runter und gib Reismalzsirup und die Chili Soße hinzu und rühre gut um. Pinsel den Blumenkohl mit der Soße. Backe den Blumenkohl nochmals für 10 Minuten und serviere",
         "name": "Buffalo Blumenkohl",
         "time": "30 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "28,35 g Speck|0,5 Eier|0,5 EL Glutenfreie Tamarisoße|0,25 tl Apfelessig|0,25 tl Fischsoße|0,25 Blumenkohl(gleich große Stücke)|0,25 Zwiebel(gehackt)|28,35 g Pilze(geschnitten)|0,25 EL Ingwer(gepresst)|0,5 Schalotten(gehackt)|0,5 EL Koriander(gehackt)",
         "instructions": "Koche den Speck bis er knusprig ist. Blumenkohl mit einem Mixer oder per Hand klein hacken, bis er die Größe von Reis hat. Speck aus der Pfanne auf einen Teller geben. Schlage die Eier zusammen und mache in der Pfanne mit dem Fett vom Speck ein kleines Omelette und schneide es in Streifen. Erhitze Kochfett oder Öl in einer Pfanne und koche die Zwiebel für ca 5 Minuten. Gib die Pilze hinzu und koche bis die Pilze braun sind. Gib den gepressten Ingwer hinzu und rühre für 30 Sekunden gut um. Gib den Blumenkohl \"Reis\" hinzu, würze mit Salz und Pfeffer und rühre gut um. Gbi einen Deckel auf die Pfanne und lasse es 5 Minuten auf niedriger Hitze kochen. Gib die Schalotten, Koriander, Omelettestücke und Speck hinzu und würze mit Apfelessig, Fischsoße und der Tamari Soße",
         "name": "gebratener Blumenkohlreis",
         "time": "45 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "1 Eier|1,5 EL Hefe|3,54 Kokosmehl|0,5 EL Chiasamen|0,25 tl Basilikum|0,25 tl Oregano|0,5 Blumenkohl(kleine Stücke)|0,5 tl Koblauch(gepresst)",
         "instructions": "Ofen auf 230°C vorheizen. Blumenkohl im Mixer mixen bis er kleiner als Reis wird. Blumenkohl in einer Mikrowellenfesten Schüssel mit hoher Hitze für 4 Minuten kochen. Nach 2 Minuten einmal umrühren. Alternativ, Blumenkohl für 5 Minuten im Wasser kochen, absieben und abkühlen lassen. Den Blumenkohl danach in ein Geschirrtuch wickeln und so viel Wasser wie möglich herausdrücken. Püriere den Blumenkohl bis er fein ist. Gib den Blumenkohl in eine Schüssel mit allen anderen Zutaten, Salz und Pfeffer und rühre gut. Backblech mit Backpapier auslegen und den Teig auf ca 0,5-1 cm dick ausrollen. Für 20 Minuten backen. Belag auf den Teig geben und nochmals für 10-15 Minuten bei 200°C backen",
         "name": "Blumenkohlpizza",
         "time": "1 Stunde"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "148,83 g Hühnerbrust|30 ml Kokosmilch|30 ml Hühnerbrühe|0,125 tl Thymian|56,7 g Pilze(geschnitten)|0,5 Schalotten(gewürfelt)|0,5 tl Knoblauch(gepresst)|0,5 EL Basilikum(gehackt)",
         "instructions": "Würze das Huhn auf beiden Seiten mit Salz und Pfeffer. Gib eine große Portion Kochfett oder Öl in eine Pfanne. Brate das Huhn auf jeder Seite 3-4 Minuten an bis es braun ist. Gib die Pilze, Knoblauch und Schalotten hinzu und lass es für weitere 3 Minuten kochen. Gib die Hühnerbrühe, Kokosmilch und Thymian hinzu rühre gut um. Gib einen Deckel drauf und lass es für weitere 12-15 Minuten kochen bis das Huhn fertig ist und serviere mit frischem Basilikum",
         "name": "Huhn mit Pilzsoße",
         "time": "40 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "148,83 g Hühnerhack|0,75 Zucchinis(gerieben)|0,75 Schalotten(geschnitten)|1 EL Koriander(gehackt)|0,25 tl Knoblauch(gepresst)",
         "instructions": "Alle Zutaten mit Salz und Pfeffer zusammengeben und gut durchmischen. Zubereitung mit dem Herd: große Portion Kochfett oder Öl erhitzen. Gehäufte Esslöffel des Mixes in die Pfanne geben und auf jeder Seite 5 Minuten braten. Zubereitung im Ofen: Ofen auf 200°C vorheizen. Backblech einfetten und gehäufte Esslöffel des Mixes draufgeben. Dünn mit Öl bestreichen und für ca 20-25 Minuten backen",
         "name": "Huhn Zucchini Laibchen",
         "time": "35 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "340,19 g Mandeln|115 g Mandelbutter|60 g Kakaopulver|90,72 g Kokosraspeln|113,4 g Butter(weich)|60 ml Kokosöl(weich)|2 EL Chiasamen|1 EL Reismalzsirup|2 tl Zimt|1 tl Vanilleextrakt",
         "instructions": "Backblech mit Backpapier auslegen. Nüsse gut zerkleinern. In einer Schüssel alle Zutaten bis auf Chiasamen und die Hälfte der Kokosraspeln hineingeben. Alles gut durchmischen. Chiasamen hinzugeben und nochmals gut durchmixen. Nun kleine Kügelchen formen und in der verbliebenen Hälfte der Kokosraspeln wälzen. Für mindestens 2 Stunden in den Kühlschrank geben. Bis zu 2 Wochen haltbar",
         "name": "Schokonussbällchen",
         "time": "2 Stunden"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "120 ml Kokosöl(geschmolzen)|60 g Kakaopulver|1 EL Reismalzsirup|2 EL Kokossahne|60 ml Mandelbutter",
         "instructions": "Mixe Kokosöl und Kakaopulver bis es glatt ist. Gib den Reismalzsirup und die Kokossahne hinzu und rühre gut um. Gib eine dünne Schicht des Teigs in ca 20 Muffinformen und friere die Formen für 5 Minuten ein. Hol die Formen wieder raus und gib ca 1/2 tl Mandelbutter in die Mitte jeder Form. Schütte die übrige Mixtur über die Formen und lasse es 30-45 Minuten im Kühlschrank",
         "name": "Schoko Mandelbutter Törtchen",
         "time": "45 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "220 g Mandelmehl|1 tl Chiasamen|0,5 tl Zimt|0,5 tl Backpulver|40 g Dunkle Schokolade(85%, grob gehackt)|3,5 EL Kokosöl(geschmolzen)|1,5 EL Reismalzsirup|1 tl Vanilleextrakt",
         "instructions": "Ofen auf 180°C vorheizen und Backblech mit Backpapier auslegen. Mische Mandelmehl, Chiasamen, Zimt und Backpulver und etwas Salz zusammen. Gib die restlichen Zutaten dazu und rühre um bis ein Teig daraus wird. Gib gehäufte Esslöffel auf das Papier und drücke sie leicht. Für 15 Minuten backen",
         "name": "Schokoladencookies",
         "time": "25 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "136,08 g Rinderfaschiertes|0,25 Eier(verquirlt)|60 ml Tomatensoße|17,72 g Mandelmehl|0,5 tl Basilikum|0,5 tl Thymian|0,5 tl Petersilie|0,25 Zweibel(klein gewürfelt)|0,25 Rote Paprika(klein gewürfelt)|0,25 tl Knoblauch(gepresst)",
         "instructions": "Ofen auf 200°C vorheizen und eine Brotform einfetten. KOchfett oder Öl erhitzen und Zwiebel, Knoblauch und Paprika kochen bis sie weich sind. In einer Schüssel Knoblauch, Zwiebel, Paprika, Faschiertem, Mandelmehl, 1/4 der Tomatensoße, 1/2 der Gewürze, Ei, Salz und Pfeffer und mit den Händen vermischen. Den Mix in die Brotform geben und 35-40 Minuten backen. Kurz vor Schluss noch die restliche Soße darubergießen und die Gewürze hinzugeben",
         "name": "Hackbraten",
         "time": "50 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "62,37 g Kokosraspeln|55 g Kokosbutter|1 EL Kokosnuss(geschmolzen)|0,5 EL Stevia|0,5 tl Vanilleextrakt|50 g Dunkle Schokolade(85%, fein zerhackt)",
         "instructions": "Alle Zutaten bis auf die Schokolade zusammenmixen. Den Mix in einen Eiswürfelbehälter aus Silikon geben und oben für eine dünne Schicht Schokolade Platz lassen. Schokolade im Wasserbad schmelzen. Die Eiswürfelformen mit 2/3 der Schokolade übergießen und für 5-10 Minuten einfrieren. Riegel aus der Form nehmen und umgedreht auf ein Backpapier legen. Die verbleibende Schokolade darübergießen. Im Kühlschrank aufbewahren",
         "name": "Kokosnussriegel",
         "time": "20 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "37,5 g Kokosflakes",
         "instructions": "Toaste die Flocken auf mittlerer Hitze und rühre gleichmäßig. Sobald sie braun werden gib sie in eine Schüssel und gib zimt uns Salz hinzu",
         "name": "Kokosnusschips",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "30 ml Olivenöl|1 EL Weißer Essig|0,5 tl Senf|0,5 tl Rettich|0,5 tl Italienische Gewürze|0,25 Rotkohl(klein geschnitten)|0,25 Grüner Salat(klein geschnitten)|0,5 Karotten(klein geschnitten)|0,5 Apfel(klein geschnitten)|0,5 tl Zitronensaft",
         "instructions": "Mixe den Salat, Karotte und Apfel in einer Schüssel. in einer kleinen Schüssel mische den Rest der Zutaten für ein Dressing. Mixe den Salat mit dem Dressing",
         "name": "Coleslaw",
         "time": "10 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "226,8 g Shrimps|60 ml Weißwein|60 ml Kokossahne|1 tl Knoblauch(gepresst)|15 g Petersilie",
         "instructions": "In einer Pfanne Knoblauch mit Kochfett anbraten. Sobald der Koblauch braun wird, die Shrimps hinzugeben. Kochen bis die Shrimps Farbe bekommen. Kurz bevor sie fertig sind stelle sie zur Seite. In der gleichen Pfanne Wein und Kokossahne hineingeben und zum Kochen bringen. um ein Drittel reduzieren lassen. Die Shrimps wieder hinzugeben. Gib die Petersilie dazu und auf Schwarzem Reis servieren",
         "name": "Shrimps mit Sahnesoße",
         "time": "25 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "310 g Makadamia Nüsse|70 g Kokosraspeln|2 Vanilleschoten(auskratzen)|150 g Cashew Nüsse(eingeweicht 4-6 Stunden)|8 EL Reismalzsirup|60 ml Kokosöl|160 ml Kokossahne|1 tl Vanilleextrakt|2 Avocados(geschält, entkernt)|8 Datteln(entkernt)|2 Limetten",
         "instructions": "Vorbereitung: Weiche alle Cashew Nüsse in Wasser für 4-6 Stunden ein und trockne sie danach ab. Weiche 150g der Makadamia Nüsse für 2 Stunden ein und trockne sie ab. Bei beiden Limetten die Schale abreiben und aufbewahren, 1 Limette zu Saft verarbeiten, die andere die Schale abschneiden damit das Fruchtfleisch ganz bleibt. Zubereitung des Bodens: Im Mixer 130g der nicht eingeweichten Makadamia Nüsse mit Kokosraspeln, Datteln und eine Prise Salz mixen bis alles gut zerkleinert wurde. Fette eine Form mit Kokosöl ein und drücke die Masse leicht auf den Boden. Zubereitung der Fülle: Mixe die Vanilleschoten und Limettenschale. Gib die Cashew Nüsse, Limettenfleisch, Avocado, Kokosöl, Prise Salz und bis auf 2 EL das Reismalzsirup hinzu. Mixe ca 1 Minute bis es eine glatte Masse ergibt. Gib die Fülle in die Form und friere es für mindestens 30 Minuten ein. Zubereitung des Toppings: Im Mixer gib die weichen Makadamia Nüsse, Kokossahne, Vanilleextrakt, Limettensaft und die restlichen 2 EL Reismalzsirup hinzu|1Gieße das Topping über die Fülle|12. Dekoriere den Kuchen mit ein paar zerkleinerten Makadamia Nüssen und ein bisschen Limettenschale|12. Decke den Kuchen mit Alufolie ab und friere in für 2 Stunden ein",
         "name": "Makadamia Käsekuchen",
         "time": "7 Stunden"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "198,45 g Fischfilet||0,5 Eier|45,36 g Tapiocastärke|7,09 g Kokosmehl|15 ml Mineralwasser|0,75 Tortillas|0,125 Rotkohl(klein geschnitten)|0,5 Tomaten(gewürfelt)|0,25 Zwiebel(gewürfelt)|0,5 EL Koriander(gehackt)|0,5 Limetten(halb gepresst, halb ganz)",
         "instructions": "Zubereitung der Salsa: Mix Tomaten, Zwiebel, Koriander und Limettensaft mit etwas Salz zusammen. Bedecke die Schüssel und stelle sie in den Kühlschrank. Zubereitung des Fisches: Richte die Panade an mit Kokosmehl, Hälfte der Tapiocastärke, Mineralwasser und den Eiern. Schneide den Fisch in kleine Streifen. Trockne den Fisch ab und wälze ihn in der verbliebenen Tapiocastärke und danach in der Panade. Koche den Fisch jeweils 1-2 Minuten auf jeder Seite. Richte den Taco mit Rotkohl, Fisch und Salsa an und gib Limettenwedges dazu",
         "name": "Fisch Tacos",
         "time": "40 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "226,8 g Butter",
         "instructions": "Schmelze Butter in einer kleinen, hohen Pfanne oder Topf. Leicht köcheln lassen und genau auf die Butter achten. Es bilden sich kleine Bläschen die eine schaumartige Oberfläche bilden. Sobald die Milchstücke braun werden und auf den Boden fallen kann man die Pfanne oder Topf von der Hitze nehmen. Das sollte ca 8-10 Minuten nach der Blasenbildung passieren. Über einer Pfanne platziere ein feines Sieb mit 3 Lagen Seihtuch/Geschirrtüchern im Sieb. Lass die Butter durch die Tücher und das Sieb abtropfen damit die Milchstücke zurückbleiben. Bewahre es in einem luftdichten Behälter auf. Im Kühlschrank hält es so ca 1 Jahr",
         "name": "Ghee",
         "time": "15 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "147,42 g Hühnerschenkel|90 g Kokosmilch|3,5 g Kokosraspeln|0,25 Zwiebeln(gehackt)|0,5 EL Ingwer|0,5 Schalotten(gehackt)|0,5 Limetten(Saft)|4 EL Koriander",
         "instructions": "Im Wok oder einer großen Pfanne etwas Kochfett oder Öl erhitzen. Die Hühnerschenkel für 3-4 Minuten auf jeder Seite anbraten und danach auf einen Teller geben. Hitze etwas reduzieren und Zwiebel und Ingwer anbraten. Kokosmilch dazugeben und gut umrühren. Gib die Hühnerschenkel wieder hinzu, lass es aufkochen und reduziere Hitze wieder auf niedrig. Gib Kokosraspeln hinzu und lass es für 15-20 Minuten köcheln bis das Huhn fertig ist. Gib den Limettensaft und die Schalotten hinzu und den Koriander darüber. Serviere mit Gemüse nach Belieben und Reis",
         "name": "Ingwer Kokos Hähnchen",
         "time": "50 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "2 Eier",
         "instructions": "Mit dem Messbecher ein Loch in die Unterseite der Eier stechen. Die gewünschte Wassermenge in den Becher einfüllen und in den Eierkocher schütten. Sobald die Eier fertig sind mit kalten Wasser abschrecken",
         "name": "Hartgekochte Eier",
         "time": "20 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "30 g Masa Harina Maismehl|0,0625 tl Salz(1/16)|50g Wasser",
         "instructions": "Mehl und Salz in einer großen Schüssel mischen. Langsam das Wasser unter ständigem Rühren hinzugeben bis der Teig sich zu einem Ball formen lässt. Falls der Teig zu feucht/trocken ist ein bisschen Mehl oder Wasser hinzugeben. Den Teig 1 Stunde ruhen lassen und mit einem feuchten Geschirrtuch zudecken. Flache Pfanne erhitzen. Teig in ca 2,5 cm Bälle aufteilen. Die Bälle zwischen zwei Frischhaltefolien legen und ausrollen. Den flachen Teig auf jeder Seite für eine Minute anbraten",
         "name": "Maistortillas",
         "time": "1,5 Stunden"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "425,24 g Kichererbsen aus der Dose|55 g Tahini / Sesampaste| 2 EL Olivenöl|0,5 tl Kümmel|1 tl Knoblauch(gepresst)|60 ml Zitronensaft",
         "instructions": "Im Mixer Tahini und Zitronensaft für 1 Minute mixen. Gib das Olivenöl, Knoblauch, Kümmel und Prise Salz hinzu. Nochmals für 1 Minute mixen. Gib die Hälfte der Kichererbsen hinzu und mixe für eine Minute. Gib den rest der Kichererbsen hinzu und mixe nochmals für 1-2 Minuten. Falls es zu dick gib etwas Wasser hinzu",
         "name": "Hummus",
         "time": "10 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "3 Lammkeulen|0 Basilikumpesto|100 g Pilze|0,25 EL Limettensaft",
         "instructions": "Pfanne vorheizen. Pilze mit Butter anbraten. Lammkeulen mit Kokosöl auf beiden Seiten anbraten. Keulen für 5-10 Minuten bevor man sie zu den Pilzen gibt. Gib Limettensaft, Olivenöl, Salz und Pfeffer hinzu. Serviere mit Pesto",
         "name": "Lammkotlett",
         "time": "25 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "150,25 g Hühnerbrust|28,35 g Babyspinat|28,35 g Ruccola|100 g Tomaten(gehälftelt)|0,25 Rote Zwiebel|0,25 Gurken|0,25 Paprika",
         "instructions": "Zubereitung des Hühnchen: Backe, grille oder koche das Hühnchen und schneide es in mundgerechte Stücke. Mische alle Zutaten und gib ein Dressing darüber",
         "name": "Hühnchensalat",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "1 Teebeutel|1 tl Zitronensaft",
         "instructions": "Teebeutel für 3-5 Minuten ziehen lassen. Etwas kaltes Wasser dazugeben. Zitronensaft hinzugeben, gut umrühren und ein paar Eiswürfel in das Glas geben",
         "name": "Zitronen Eistee",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "200 g Jakobsmuscheln|1 EL Zitronensaft",
         "instructions": "Muscheln trocken wischen. Pfanne mit Kokosöl erhitzen. Die Muscheln hinzugeben und jede Seite 1-2 Minuten anbraten. Die Muscheln auf einen Teller geben und mit Salz und Pfeffer würzen. Zitronensaft draufgeben und mit Zitronenscheiben servieren",
         "name": "Jakobsmuscheln",
         "time": "10 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "50 g Linsen|180 g Hühnerbrühe|0,25 tl Thymian|0,25 tl Knoblauch(gepresst)|0,25 Sellerie(gewürfelt)|0,25 Zwiebel(gewürfelt)|0,25 Karotten(gewürfelt)",
         "instructions": "Pfanne mit Kochfett oder Öl erhitzen. Koche den Sellerie, Zwiebel, Karotten und Knoblauch für ca. 5 Minuten. Gib die Linsen, Hühnerbrühe und Gewürze hinzu. Lass es für ca 30 Minuten köcheln bis die Flüssigkeit verschwunden ist",
         "name": "Linsen",
         "time": "40 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "266,5 g Makadamia Nüsse|1 EL Zitronensaft",
         "instructions": "Alle Zutaten mit einem Teelöffel Salz und 120 ml Wasser in einen Mixer geben. Mixe bis es Ricotta ähnelt. Falls es zu hart ist gib noch etwas Wasser hinzu. Im Kühlschrank bis zu einer Woche haltbar",
         "name": "Makadamia Ricotta Käse",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "2 tl Majoran",
         "instructions": "Mit einem Teeinfuser den Tee 15 Minuten brühen lassen. Kleinen Teller über die Teekanne legen damit die Dämpfe nicht entweichen",
         "name": "Majorantee",
         "time": "15 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "226,8 g Shrimps|20 g Pinienkerne|1 EL Olivenöl|115 g Basilikum|0,5 tl Knoblauch(gepresst)|0,25 EL Zitronensaft",
         "instructions": "Im Mixer alle Zutaten bis auf die Shrimps mixen bis es ein Pesto ist. Mixe die Shrimps und das Pesto zusammen. Spieße die Shrimps auf und brate sie auf jeder Seite ca 3 Minuten an",
         "name": "Pesto Schrimpsspiese",
         "time": "20 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "30 ml Hühnerbrühe|60 ml Kokossahne|0,0625 tl Zimt|0,0625 tl Muskatnuss|141 g Kürbis(gewürfelt)|0,25 Zwiebel(gewürfelt)|0,4 EL Knoblauch(gepresst)",
         "instructions": "Koch die Kürbiswürfel im Wasser für ca 20 Minuten. Seihe es ab lege es beiseite. Im Topf eine große Portion Butter erhitzen und Zwiebel und Knoblauch anbraten. Alle Zutaten mit Salz und Pfeffer zusammengeben und mixen. Die Suppe für ca 2 Minuten köcheln lassen",
         "name": "Kürbissuppe",
         "time": "35 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "45 g Quinoa|30 ml Olivenöl|0,25 tl Knoblauch(gepresst)|0,25 Gurken(gewürfelt)|70 g Tomaten|3 EL Petersilie|2 EL Minze|0,5 Schalotten(gewürfelt)|0,5 EL Zitronensaft",
         "instructions": "Koche den Quinoa. Mische Zitronensaft, Olivenöl, Knoblauch, Salz und Pfeffer in einer Schüssel. Gib den Quinoa, Gurke, Tomaten, Kräuter und Schalotten hinzu und mische gut durch. Wenn man das Gericht vorbereitet die Zutaten seperat mit dem Dressing anrichten",
         "name": "Qunioa Tabbouleh ",
         "time": "50 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "0,25 Grünkohl(geschnitten in 2 cm Schnitten)|0,5 EL Knoblauch(gepresst)",
         "instructions": "Oven auf 205°C vorheizen. Auf Backpapier die Schnitten mit Olivenöl bestreichen. Jede Seite des Kohls mit Salz, Pfeffer und Knoblauch würzen. Je Seite ca. 20 Minuten im Ofen backen bis die Ecken knusprig sind",
         "name": "Gerösteter Kohl",
         "time": "45 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "2 Parasol(gesäubert)",
         "instructions": "Ofen auf 205°C vorheizen. Leg die Pilze auf ein Backpapier und bestreiche sie mit Kochfett und Gewürze, Salz und Pfeffer. Backe sie pro Seite 10 Minuten",
         "name": "Gerösteter Parasol",
         "time": "25 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "5 Nori Blätter|0,5 EL Olivenöl|0,5 tl Sesamöl",
         "instructions": "Mische das Olivenöl und Sesamöl. Bestreiche jedes Blatt dünn mit Öl und einer Prise Salz. Tropfe das überschüssige Öl mit einem Küchenpapier ab. Erhitze eine Pfanne. Koche das Blatt 5 Sekunden auf jeder Seite. Schneide die Blätter in kleine Stücke",
         "name": "Geröstetes Seegras",
         "time": "10 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "1 Wrap|30 g Babyspinat|1 Tomate(Scheiben)|0,25 Rote Zwiebel(Scheiben)|0,25 Gurken(Halbscheiben)|0,25 Paprika(Scheiben)",
         "instructions": "Betreiche die Innenseite der Wraps mit Butter und Würze nach belieben. Schneide das Fleisch klein und gib es in den Wrap. Gib die restlichen Zutaten hinzu",
         "name": "Salat Warp",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "4 Eier|60 Kokosmehl|30 g Mandelmehl|2 tl zimt|1 tl Natron|0,25 tl Backpulver|0,5 tl Apfelessig|225 g Kürbispüree|2 EL Kokosöl|1 Zucchini(klein)",
         "instructions": "Ofen auf 190°C vorheizen. Alle trockenen Zutaten zusammenmixen und auf die Seite stellen. Im Mixer die Zucchini klein mixen und so viel Wasser wie möglich auspressen. Das Kürbispüree und Kokosöl hinzugeben und mixen bis es eine glatte Masse ergibt. Gib den Apfelessig hinzu und mixe. Gib die trockenen Zutaten hinzu und mixe. Gib die Eier hinzu und mixe. Gib es in 12 Muffinformen und backe für ca 25 Minuten",
         "name": "Kürbis Zucchini Muffin",
         "time": "35 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "200 g Lachs|0,25 tl Basilikum|0,25 tl Knoblauchpulver|0,25 Zitrone(Spalten)",
         "instructions": "Knoblauchpulver, Basilikum, Salz und Pfeffer auf den Lachs reiben. Pfanne mit großer Portion Kochfett erhitzen. Den Lachs ca 10 Minuten anbraten bis er durch ist. Serviere mit einem Zitronenspalte",
         "name": "Lachs",
         "time": "25 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "136 g Hühnerbrust(gewürfelt)|1 EL Olivenöl|0,25 tl Kümmel|0,25 tl Chilipulver|1 EL Zwiebelpulver|1 EL Knoblauchpulver|0,5 EL Cayennepulver|30 ml Salsa|0,25 Spaghetti squash|0,5 Paprika(Streifen)|0,25 Zwiebel(Scheiben)|0,5 tl Knoblauch(gepresst)",
         "instructions": "Ofen auf 200°C vorheizen. Viertel den Kürbis. Entferne die Kerne und lose Fleischstreifen. Lege den Kürbis mit dem Fleisch nach unten in eine Pfanne und gib bodenbedeckt Wasser hinein. Koche den Kürbis für ca. 30-45 Minuten. Er ist fertig wenn er leicht zum durchstechen geht und das Fleisch in Fäden löst. Zubereitung der Marinade: In einer Schüssel Kümmel, Chili, Zwiebelpulver, Knoblauchpulver, Cayennepulver, Zitronensaft und Olivenöl mischen. Gib die Hühnerwürfel in einen Zipperbeutel mit der Marinade und mische gut druch. Erhitze eine Pfanne mit Kochfett. Gib die Paprikastreifen, Zwiebel, Knoblauch, Salz und Pfeffer hinein|1Koche für ca. 15 Minuten und lege es beiseite|12. Koche nun das Huhn mit möglichst wenig Marinade|13. Koche es für ca. 10 Minuten|14. Gib das Gemüse und die Salsa hinzu und rühre gut um|15. Sobald der Kürbis fertig ist nimm eine Gabel und trenne die Fleischfäden hinaus|16. Teile den Hühnermix gleichmäßig auf",
         "name": "Kürbis Fajitas",
         "time": "45 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "1 EL getrocknete Pfefferminze(oder 1 Pfefferminze Teebeutel)",
         "instructions": "Gib die getrocknete Minze in einen Teeinfuser. Gib kochendes Wasser hinzu und lasse es mindestens 10 Minuten ziehen",
         "name": "Pfefferminztee",
         "time": "10 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "210 g Kichererbsen|0,25 tl Kümmel|0,25 tl Chili|0,0125 tl Cayennepulver",
         "instructions": "Ofen auf 200°C vorheizen. In einer Schüssel die Kichererbsen mit etwas Olivenöl und den Gewürzen mischen. Auf ein Backpapier geben und ca. 30-40 Minuten backen. Haltbar 2-3 Tage bei Raumtemperatur",
         "name": "Pikante Kichererbsen",
         "time": "45 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "113 g Gulaschfleisch|0,5 Lammniere(geschnitten)|0,25 EL Pfeilwurzmehl|30 ml Rinderbrühe|0,0125 tl Rosmarin|0,25 Zwiebel(gewürfelt)|56 g Pilze(geschnitten)|0,5 tl Knoblauch(gepresst)",
         "instructions": "Das Fleisch, Niere, Zwiebel, Pilze und Knoblauch in einen Schongarer geben. Das Mehl, Rosmarin, Salz und Pfeffer hinzugeben und gut umrühren. Die Rinderbrühe hinzugeben und für 8 Stunden garen lassen",
         "name": "Steak und Niere",
         "time": "8 Stunden"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "113 g Rinderhack|0,25 tl Chili|0,25 tl Kümmel|0,25 tl Oregano|1 Paprika(gehälftelt)|0,25 Karotten(gerieben)|0,125 Zwiebel(gewürfelt)|0,25 Schalotten(gewürfelt)|0,25 Tomaten(geschnitten)|0,25 tl Knoblauchpulver",
         "instructions": "Ofen auf 180°C vorheizen. In einer Pfanne eine große Portion Kochfett erhitzen. Koche die Zwiebel, Karotten und Knoblauch für 2-3 Minuten. Gib das Fleisch hinzu und koche nochmals für 5-7 Minuten. Würze mit Chili, Kümmel, Oregano, Salz und Pfeffer. Rühre gut um und koche für 2 Minuten. Teile das Fleisch auf die Hälften auf und gib sie auf Backpapier. Backe die Paprika für ca. 15 Minuten. Gib noch die Schalotten und frische Tomaten drauf",
         "name": "Gefüllte Paprika mit Faschierten",
         "time": "35 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "113 g Rinderhack|40 ml Salsa|0,25 EL Chili|0,25 tl Kümmel|0,125 tl Paprikapulver|0,125 tl Oregano|0,125 tl Knoblauchpulver|113 g Süßkartoffel(1 pro Person)|0,125 Zwiebel(gewürfelt)|0,25 Tomaten(gewürfelt)|0,25 Paprika(gewürfelt)|0,125 Römersalat(geschnitten)|1,5 Schalotten(gewürfelt)",
         "instructions": "Ofen auf 190°C vorheizen. Kartoffel mit einer Gabel überall einstechen und 35 Minuten backen. Mixe Chili, Kümmel, Paprikapulver, Oregano, Knoblauchpulver, Salz und Pfeffer und stelle es beiseite. In einer Pfanner erhitze Kochfett. Gib die Zwiebel hinzu und koche bis sie weich sind. Gib das Rinderhack hinzu. Gib den Gewürzmix darüber. Eventuell 1-2 EL Wasser hinzugeben. Für 1-2 Minuten kochen lassen. Schneide die Kartoffel längs auf und entferne ein bisschen Kartoffel um Platz für die Fülle zu schaffen. Gib den Mix hinein und gib das restliche Gemüse und die Salsa darüber",
         "name": "Süßkartoffel Tacos",
         "time": "45 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "3 EL Kokosöl|2 EL Kokossahne|56,70 g Kokosraspeln|7,1 g Kokosmehl|1 tl Reismalzsirup 450 g Süßkartoffel(gewürfelt)",
         "instructions": "Koche die Süßkartoffel: Koche die Süßkartoffel bis sie durch ist. Püriere die Süßkartoffel anschließend. Bereite die Bällchen vor: Mixe alle Zutaten bis auf die Kokosraspeln zusammen. Decke die Schüssel ab und gib sie für 1 Stunde in den Kühlschrank. Nimm Esslöffelgroße Stücke und forme sie zu Bällchen. Rolle die Bällchen durch die Kokosraspeln. Store in the fridge",
         "name": "Süßkartoffel Bällchen",
         "time": "75 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "200 g Tarowurzel",
         "instructions": "Heize den Ofen auf 200°C vor. Schäle die Tarowurzel und schneide sie in dünne Scheiben. Wälze die Scheiben in Kochfett mit Salz und Pfeffer. Backe für ca. 15 Minuten oder bis sie braun werden",
         "name": "Taro Chips",
         "time": "25 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "3 Eier|1 EL Tapiokamehl|0,5 EL Fischsoße|0,5 tl Limettensaft",
         "instructions": "Mische alle Zutaten in einer Schüssel. Schmelze Kochfett oder Öl in einer Pfanne. Leere die Hälfte der Mixtur hinein. Koche für 30 Sekunden auf jeder Seite. Wiederhole das gleiche für das nächste Omelette",
         "name": "Thai Omelette",
         "time": "10 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "75 g Kokosflocken",
         "instructions": "Erhitze eine Pfanne und gib die Kokosflocken hinein. Sobald sie braun werden gib sie hinaus",
         "name": "Geröstete Kokosflocken",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "2",
-        
+        "category": "SNACK",
         "image": "/",
         "ingredients": "1,5 Tomaten(Scheiben)|0,25 Gurken(Scheiben)|0,125 Rote Zwiebel(Scheiben)|0,5 Avocado(gewürfelt)|1 EL Koriander|0,5 EL Zitronensaft",
         "instructions": "Mixe alle Zutaten mit Olivenöl, Salz und Pfeffer zusammen",
         "name": "Tomaten Avocado Salat",
         "time": "15 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "120 g Gemüsebrühe|1 Prise Chili|340 g Tomaten(gehälftelt)|0,25 Zwiebel(gewürfelt)|0,5 tl Knoblauch|1 EL Basilikum",
         "instructions": "Ofen auf auf 205°C vorheizen. Tomaten mit etwas Olivenöl im Ofen für 45 Minuten anbraten. Zwiebel anschwitzen. Gib Knoblauch und den Chili hinzu. Gib die Tomaten, die Hälfte des Basilikums und die Brühe in den Topf und püriere alles. Lasse die Suppe für 30-40 Minuten köcheln und würze nach Belieben nach. Streue den restlichen Basilikum darüber",
         "name": "Tomatensuppe",
         "time": "90 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "70,9 g Thunfisch|3 EL Mayonnaise|0,125 Rote Zwiebel(gewürfelt)|0,125 Paprika(gewürfelt)|0,25 Gurken(Scheiben)",
         "instructions": "Mixe alle Zutaten bis auf die Gurken zusammen und würze mit Salz und Pfeffer. Gib einen EL auf jede Scheibe",
         "name": "Thunfisch-Gurken Salat",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "141 g Thunfisch/Lachs|28,35 g Mandeln| 2,5 grüne Oliven|2 EL Mayonnaise|0,5 EL Senf|0,5 tl Apfelessig|0,5 Sellerie(gewürfelt)|0,25 Paprika(gewürfelt)|0,25 Gurken(gewürfelt)|0,5 Schalotten(gewürfelt)|0,5 EL Petersilie(gewürfelt)|0,5 tl Zitronensaft",
         "instructions": "Mixe die Mayonnaise, Senf, Essig, Zitronensaft, Salz und Pfeffer zusammen. Zerkleinere die Mandeln und gib sie zu dem Dressing und gib es über alle Zutaten",
         "name": "Thunfisch-Lachs Salat",
         "time": "15 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "113 g Truthahnhack|1,75 Eier|15 ml Gemüsebrühe|0,5 EL Mandelmilch|0,25 EL Fenchel|0,25 EL Dill|0,25 tl Knoblauchpulver|0,128 tl Chili|0,25 Zwiebel(Ringe)|0,75 tl Knoblauch(gepresst)|35,4 g Pilze(geschnitten)|70,9 g Babyspinat|0,25 EL Zitronensaft",
         "instructions": "Ofen auf 180°C vorheizen. Mixe den Truthahn, Fenchel, Dill Knoblauchpulver, Chili, Salz und Pfeffer. Koche den Truthahn mit Kochfett oder Öl bis er braun wird und stelle ihn in eine Schüssel. Gib noch etwas Kochfett oder Öl hinzu und brate die Zwiebel für 8-10 Minuten an. Gib den Knoblauch hinzu und brate für weitere 3 Minuten. Gib die Pilze hinzu und brate bis sie weich sind. Letzlich gib den Spinat hinzu und Zitronensaft hinzu und brate bis der Spinat fertig ist. In einer tiefen Pfanne gib abwechselnd Gemüse und Truthahn hinein. Mixe das Ei und die Milch und gieße es darüber. Backe es für 25-35 Minuten bis er durchgebacken ist",
         "name": "Truthahn Frittata",
         "time": "50 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "360 g Mandelmilch|0,5 tl Vanilleextrakt|0,5 EL Kokosöl|1 tl Kurkuma|0,5 tl Zimt|0,5 tl Ingwerpulver|0,25 tl Schwarzer Pfeffer",
         "instructions": "Gib alle Zutaten in einen Topf und bringe es zum kochen. Rühre gut um. Lass es für 1 Minute köcheln",
         "name": "Kurkuma Latte",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "225 g Wassermelone(gewürfelt)|75 g Erdbeeren",
         "instructions": "Püriere alle Zutaten. Gib die Mixtur in Eisformen und friere sie für 4 Stunden ein",
         "name": "Wassermelone-Erdbeer Eis",
         "time": "5 Minuten"
     },
+    ""
+    :
     {
-        "category": "1",
-        
+        "category": "MAIN_DISH",
         "image": "/",
         "ingredients": "414 ml Kokossahne|0,5 tl Vanilleextrakt(optional)|0,5 Reismalzsirup(optional)",
         "instructions": "Gib die Kokossahne/Milch in den Kühlschrank sodass sich die Sahne/Milch trennt. Löffel die Sahne am Deckel ab und gib sie in eine kalte Schüssel. Behalte den Rest für Smoothies auf. Gib die Kokossahne in einen Mixer bis sie Cremig wird und gib Vanille oder Reismalz hinzu",

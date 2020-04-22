@@ -1,6 +1,7 @@
 package com.rr.kitchenHelp.fragments;
 
 import android.os.Bundle;
+import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -48,12 +49,20 @@ public class RecipeDetailFragment extends Fragment {
         }
 
         TextView instructions = rootView.findViewById(R.id.recipe_instructions);
-        instructions.setText(recipeDetail.getInstructions());
+        if (TextUtils.isEmpty(recipeDetail.getInstructions())) {
+            instructions.setText("Keine Angaben");
+        } else {
+            instructions.setText(recipeDetail.getInstructions());
+        }
 
         return rootView;
     }
 
     private void createIngredientList() {
+        if (TextUtils.isEmpty(recipeDetail.getIngredients())) {
+            ingredientList.add(new RecipeIngredient("Keine Angabe", "", ""));
+            return;
+        }
         String[] allIngredients = recipeDetail.getIngredients().split("\\|");
         for (int i = 0; i < allIngredients.length; i++) {
             String currentIngredient = allIngredients[i].trim();
@@ -62,12 +71,11 @@ public class RecipeDetailFragment extends Fragment {
             String rest = getRemainingString(currentIngredient, currentIngredient.indexOf(" "), currentIngredient.length());
             String unit = containsIngredientUnit(getRemainingString(rest, 0, rest.indexOf(" ")));
             String name;
-            if (unit.equalsIgnoreCase("")) {
+            if (TextUtils.isEmpty(unit)) {
                 name = rest;
             } else {
                 name = getRemainingString(rest, rest.indexOf(" "), rest.length());
             }
-            System.out.println(piece + " + " + unit + " + " + name);
             ingredientList.add(new RecipeIngredient(piece, unit, name));
         }
     }
