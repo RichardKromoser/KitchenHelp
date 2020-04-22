@@ -50,7 +50,7 @@ public class RecipeDetailFragment extends Fragment {
 
         TextView instructions = rootView.findViewById(R.id.recipe_instructions);
         if (TextUtils.isEmpty(recipeDetail.getInstructions())) {
-            instructions.setText("Keine Angaben");
+            instructions.setText(R.string.no_info);
         } else {
             instructions.setText(recipeDetail.getInstructions());
         }
@@ -60,7 +60,7 @@ public class RecipeDetailFragment extends Fragment {
 
     private void createIngredientList() {
         if (TextUtils.isEmpty(recipeDetail.getIngredients())) {
-            ingredientList.add(new RecipeIngredient("Keine Angabe", "", ""));
+            ingredientList.add(new RecipeIngredient(getString(R.string.no_info), "", ""));
             return;
         }
         String[] allIngredients = recipeDetail.getIngredients().split("\\|");
@@ -92,7 +92,7 @@ public class RecipeDetailFragment extends Fragment {
     private String containsIngredientUnit(String ingredient) {
         for (Unit value : Unit.values()) {
             // < 3 zum sichergehen dass nicht sowas wie steinpilz gefunden wird, wegen st von stück
-            if (value.getShortName().equalsIgnoreCase(ingredient) && ingredient.length() < 3) {
+            if (value.getShortName().equalsIgnoreCase(ingredient)) {
                 return ingredient;
             }
         }
