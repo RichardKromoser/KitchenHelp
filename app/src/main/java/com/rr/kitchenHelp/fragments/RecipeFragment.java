@@ -41,6 +41,8 @@ public class RecipeFragment extends Fragment {
         adapter = new RecipeAdapter(data);
         recyclerView.setAdapter(adapter);
 
+        getActivity().setTitle(getString(R.string.nav_recipe));
+
         return rootView;
     }
 }

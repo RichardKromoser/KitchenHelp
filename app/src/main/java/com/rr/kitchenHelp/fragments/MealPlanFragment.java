@@ -18,6 +18,7 @@ public class MealPlanFragment extends Fragment {
 
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.fragment_meal_plan, container, false);
+        getActivity().setTitle(getString(R.string.nav_meal_plan));
 
         return rootView;
     }

@@ -18,6 +18,7 @@ public class IngredientFragment extends Fragment {
 
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.fragment_ingredient, container, false);
+        getActivity().setTitle(getString(R.string.nav_ingredient));
 
         return rootView;
     }
