@@ -108,7 +108,7 @@ public class RecipeDetailFragment extends Fragment {
         for (Unit value : Unit.values()) {
             // < 3 zum sichergehen dass nicht sowas wie steinpilz gefunden wird, wegen st von stück
             if (value.getShortName().equalsIgnoreCase(ingredient)) {
-                return ingredient;
+                return value.getDisplayName();
             }
         }
         return "";

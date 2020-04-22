@@ -2,6 +2,8 @@ package com.rr.kitchenHelp.adapter;
 
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
+import android.widget.Filter;
+import android.widget.Filterable;
 
 import androidx.recyclerview.widget.RecyclerView;
 
@@ -12,11 +14,13 @@ import com.rr.kitchenHelp.R;
 import com.rr.kitchenHelp.ViewHolder.RecipeViewHolder;
 import com.rr.kitchenHelp.dto.Recipe;
 
+import java.util.ArrayList;
 import java.util.List;
 
 
-public class RecipeAdapter extends RecyclerView.Adapter<RecipeViewHolder> {
+public class RecipeAdapter extends RecyclerView.Adapter<RecipeViewHolder> implements Filterable {
     private List<Recipe> dataset;
+    private List<Recipe> filteredDataset;
 
     //Provide a reference to the views for each data item
     //Complex data items need more than one view per item and
@@ -25,6 +29,7 @@ public class RecipeAdapter extends RecyclerView.Adapter<RecipeViewHolder> {
     //Provide a suitable Constructor, depends on the dataset
     public RecipeAdapter(List<Recipe> dataset) {
         this.dataset = dataset;
+        this.filteredDataset = dataset;
     }
 
     // Create new views (used by Layoutmanager)
@@ -32,7 +37,7 @@ public class RecipeAdapter extends RecyclerView.Adapter<RecipeViewHolder> {
     public RecipeViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
         //Create a new View
         RecipeViewHolder vh = new RecipeViewHolder(LayoutInflater.from(parent.getContext()).inflate(R.layout.single_recipe, parent, false));
-        vh.setRecipeList(dataset);
+        vh.setRecipeList(filteredDataset);
         return vh;
     }
 
@@ -58,6 +63,39 @@ public class RecipeAdapter extends RecyclerView.Adapter<RecipeViewHolder> {
     // Return the size of your dataset (invoked by the layout manager)
     @Override
     public int getItemCount() {
-        return dataset.size();
+        return filteredDataset.size();
+    }
+
+    @Override
+    public Filter getFilter() {
+        return new Filter() {
+            @Override
+            protected FilterResults performFiltering(CharSequence constraint) {
+                String filterString = constraint.toString();
+                if (filterString.isEmpty()) {
+                    filteredDataset = dataset;
+                } else {
+                    ArrayList<Recipe> filteredRecipes = new ArrayList<>();
+                    for (Recipe recipe : dataset) {
+                        // name match condition. this might differ depending on your requirement
+                        // here we are looking for name match
+                        if (recipe.getName().toLowerCase().contains(filterString.toLowerCase())) {
+                            filteredRecipes.add(recipe);
+                        }
+                    }
+                    filteredDataset = filteredRecipes;
+                }
+
+                FilterResults filterResults = new FilterResults();
+                filterResults.values = filteredDataset;
+                return filterResults;
+            }
+
+            @Override
+            protected void publishResults(CharSequence constraint, FilterResults results) {
+                filteredDataset = (ArrayList<Recipe>) results.values;
+                notifyDataSetChanged();
+            }
+        };
     }
 }

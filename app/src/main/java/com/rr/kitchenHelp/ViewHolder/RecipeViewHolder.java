@@ -55,7 +55,6 @@ public class RecipeViewHolder extends BaseViewHolder {
 
     public void onBind(int position) {
         super.onBind(position);
-        recipePicture.setImageResource(R.drawable.ic_add_box_black_48dp);
         recipeTitle.setText(recipeList.get(position).getName());
     }
 }
