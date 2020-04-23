@@ -1,26 +1,77 @@
 package com.rr.kitchenHelp.adapter;
 
+import android.util.Log;
 import android.view.LayoutInflater;
+import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Filter;
 import android.widget.Filterable;
+import android.widget.ImageView;
+import android.widget.TextView;
 
+import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
 import com.google.firebase.storage.FirebaseStorage;
 import com.google.firebase.storage.StorageReference;
 import com.rr.kitchenHelp.R;
-import com.rr.kitchenHelp.ViewHolder.RecipeViewHolder;
+import com.rr.kitchenHelp.ViewHolder.BaseViewHolder;
 import com.rr.kitchenHelp.dto.Recipe;
+import com.rr.kitchenHelp.fragments.RecipeDetailFragment;
 
 import java.util.ArrayList;
 import java.util.List;
 
 
-public class RecipeAdapter extends RecyclerView.Adapter<RecipeViewHolder> implements Filterable {
+public class RecipeAdapter extends RecyclerView.Adapter<RecipeAdapter.RecipeViewHolder> implements Filterable {
     private List<Recipe> dataset;
     private List<Recipe> filteredDataset;
+
+    class RecipeViewHolder extends BaseViewHolder {
+
+        private ImageView recipePicture;
+        private TextView recipeTitle;
+
+        public ImageView getRecipePicture() {
+            return recipePicture;
+        }
+
+        public void setRecipePicture(ImageView recipePicture) {
+            this.recipePicture = recipePicture;
+        }
+
+        public RecipeViewHolder(View itemView) {
+            super(itemView);
+            this.recipePicture = itemView.findViewById(R.id.recipe_thumbnail);
+            this.recipeTitle = itemView.findViewById(R.id.recipe_title);
+            itemView.setOnClickListener(new View.OnClickListener() {
+
+                @Override
+                public void onClick(View v) {
+                    //Was soll passieren wenn man die Karte anklickt
+                    Log.d("RecipeViewHolder", filteredDataset.get(getCurrentPosition()).getName());
+                    AppCompatActivity activity = (AppCompatActivity) v.getContext();
+                    RecipeDetailFragment fragment = new RecipeDetailFragment();
+                    fragment.setRecipeDetail(filteredDataset.get(getCurrentPosition()));
+                    activity.getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, fragment).addToBackStack(null).commit();
+                }
+            });
+        }
+        @Override
+        protected void clear() {
+            recipePicture.setImageDrawable(null);
+            recipeTitle.setText("");
+        }
+
+        public void onBind(int position) {
+            super.onBind(position);
+            //Set RezeptBild
+            recipeTitle.setText(filteredDataset.get(position).getName());
+        }
+    }
+
+
 
     //Provide a reference to the views for each data item
     //Complex data items need more than one view per item and
@@ -36,14 +87,13 @@ public class RecipeAdapter extends RecyclerView.Adapter<RecipeViewHolder> implem
     @Override
     public RecipeViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
         //Create a new View
-        RecipeViewHolder vh = new RecipeViewHolder(LayoutInflater.from(parent.getContext()).inflate(R.layout.single_recipe, parent, false));
-        vh.setRecipeList(filteredDataset);
+        RecipeAdapter.RecipeViewHolder vh = new RecipeAdapter.RecipeViewHolder(LayoutInflater.from(parent.getContext()).inflate(R.layout.single_recipe, parent, false));
         return vh;
     }
 
     // Replace the contents of a view (invoked by the layout manager)
     @Override
-    public void onBindViewHolder(RecipeViewHolder holder, int position) {
+    public void onBindViewHolder(RecipeAdapter.RecipeViewHolder holder, int position) {
         // - get element from your dataset at this position
         // - replace the contents of the view with that element
         holder.onBind(position);
@@ -94,6 +144,7 @@ public class RecipeAdapter extends RecyclerView.Adapter<RecipeViewHolder> implem
             @Override
             protected void publishResults(CharSequence constraint, FilterResults results) {
                 filteredDataset = (ArrayList<Recipe>) results.values;
+
                 notifyDataSetChanged();
             }
         };
