@@ -2,7 +2,7 @@
     "recipes":{
         "0":{
             "category": "SNACK",
-            "image": "gs://kitchenhelp-58395.appspot.com/ClarionHotelPrag-2016.PNG",
+          "image": "/image75.jpg",
             "ingredients": "80 ml Kokosnussöl| 55 g Mandelbutter|10 g Kokosflakes| 2 tsp Reissirup| 55 g Schokostücke",
             "instructions": "Backblech mit Backpapier auslegen. Das Öl, die Mandelcreme, die Kokoschips und den Reissirup zusammenmischen und auf den Papier verteilen. Die Schokostücke verteilen und etwas Salz darüber streuen. Für 20 Minuten einfrieren und dann zerbrechen",
             "name": "Mandelbutter Rinde",
@@ -10,7 +10,7 @@
         },
         "1":{
             "category": "SNACK",
-            "image": "/",
+          "image": "/image24.jpg",
             "ingredients": "142 g Mandeln (über Nacht eingeweicht)| 1/2 tsp Zimt",
             "instructions": "Nach dem Einweichen die Mandeln in den Mixer geben und zerkleinern. (Optional) hierbei eine Vanilleshote hinzufügen. Nun 840ml Wasser hinzufügen und 1 Minute auf hoher Stufe mixen. Die Milch durch einen Filter in eine große Schüssel gießen. Mit viel Druck den letzten Rest der Milch herausdrücken. Die Milch in den Mixer zurückschütten und etwas Zimt und Salz dazu geben. Nun die Milch in ein Glas geben und im Kühlschrank lagern. Die Milch ist bis zu 3 Tage haltbar und sollte geschüttelt werden vor Gebrauch",
             "name": "Mandelmilch",
@@ -26,7 +26,7 @@
         },
         "3":{
             "category": "MAIN_DISH",
-            "image": "/",
+          "image": "/image20.jpg",
             "ingredients": "907 g Faschiertes| 2 tsp Salbei | 1 tsp Thymian | 1 tsp Rosmarin | 1 Apfel",
             "instructions": "Den gerieben Apfel mit dem Hack vermengen und mit Salz und Pfeffer würzen. Mit den Händen Laibchen formen sodass ungefähr 15 Laibchen entstehen. In einer Pfanne gewünschtes Fett erhitzen. Die Laibchen für 4 Minuten auf jeder Seite anbraten bis sie braun sind",
             "name": "Schweinefleischlaibchen mit Apfel",
@@ -34,7 +34,7 @@
         },
         "4":{
             "category": "SNACK",
-            "image": "/",
+          "image": "/image34.jpg",
             "ingredients": "80 ml Tamarisouce | 2 tbsp Reisessig | 2 tsp Sesamöl| 1 Scharlotte | 1 tsp Knoblauch | 1/2 Ingwer",
             "instructions": "Mix alle Zutaten in einer Schüssel zusammen",
             "name": "Asiatische Soße",
@@ -42,7 +42,7 @@
         },
         "5":{
             "category": "MAIN_DISH",
-            "image": "/",
+          "image": "/image50.jpg",
             "ingredients": "140 g Spargel | 1 Tomate",
             "instructions": "Spargel mit Butter in der Pfanne anbraten bis er braun und zart ist. Würze mit Salz und Pfeffer und sofort essen",
             "name": "Spargel",
@@ -50,7 +50,7 @@
         },
         "6":{
             "category": "SNACK",
-            "image": "/",
+          "image": "/image105.jpg",
             "ingredients": "120 ml Kokossahne | 30 g Kakaopulver | 1 tbsp Chiasamen | 2 tsp Reissirup | 1 tsp Vanille Essenz | 1/2 tsp Zimt | 2 Avocado",
             "instructions": "Alle Zutaten und eine Prise Salz in den Mixer geben und mixen bis die Masse cremig ist. Das Mousse aufteilen und 2-3 Stunden kühlen",
             "name": "Schokomousse",
@@ -58,7 +58,7 @@
         }, 
         "7":{
             "category": "MAIN_DISH",
-            "image": "/",
+          "image": "/image107.jpg",
             "ingredients": "450 g Krabben | 2 tbsp Mayonnaise | 8 Nori Blätter | 2 Scharlotten | 1 Avocado | 1 Gurke | 1 tbsp Limettensaft",
             "instructions": "Mixe Krabbenfleisch, Mayonnaise, Schalotten und Limettensaft, Salz und Pfeffer in einer Schüssel zusammen. Nori Blätter mit der glänzenden Seite nach unten legen. 2 Esslöffel von der Masse diagonal von einer Ecke in die Mitte des Blattes legen. Avocadospalte und Gurkenspalte auf das Eck legen und dann zu einer Rolle formen. Sofort essen bevor das Nori Blatt weich wird",
             "name": "Krabbenwraps mit Avocado",
@@ -66,7 +66,7 @@
         },
         "8":{
             "category": "MAIN_DISH",
-            "image": "/",
+          "image": "/image95.jpg",
             "ingredients": "450 g Süßkartoffel",
             "instructions": "Ofen auf 205°C vorheizen und Backblech in die Mitte legen. In die Süßkartoffel mit einer Gabel Löcher stechen und auf einem Backblech mit Alufolie legen. Alternativ eine 'X' Form in die Süßkartoffel schneiden und Knoblauchzehen und Rosmarin füllen. Mit Öl oder Kochfett außen bestreichen und 45-50 Minuten backen bis sie weich sind. Solange sie noch weich sind schneide eine 'X' Form (falls noch nicht gemacht). Mit Butter, Kokosfett oder Butterschmalz begießen, mit Salz und Pfeffer würzen und servieren",
             "name": "Gebackene Süßkartoffel",
@@ -74,7 +74,7 @@
         },
         "9":{
             "category": "SNACK",
-            "image": "/",
+          "image": "/image19.jpg",
             "ingredients": "120 ml Kokossahne | 1 tsp Vanille Essenz | 3 Bananen | 150 g gefrorene Erdbeeren",
             "instructions": "Mixe alle Zutaten im Mixer für eine Minute und serviere",
             "name": "Bananen Beeren Halbgefrorenes",
@@ -82,7 +82,7 @@
         },
         "10":{
             "category": "SNACK",
-            "image": "/",
+          "image": "/image38.jpg",
             "ingredients": "100 g Dunkle Schokolade (min.80%) | 25 g Kokosflocken | 4 Bananen",
             "instructions": "Den Ofen auf 150°C vorheizen. Bananen längs auf einer Seite aufschneiden. Bananen gelichmäßig mit Kokosnuss und Schokolade füllen. Jede Banane in Alufolie einwickeln und auf Backpapier legen. Für 20-25 Minuten kochen oder bis die Schale schwarz ist und servieren",
             "name": "Bananenboot",
@@ -90,7 +90,7 @@
         },
         "11":{
             "category": "BREAKFAST",
-            "image": "/",
+          "image": "/image89.jpg",
             "ingredients": "65.20 g Macadamianüsse | 360 ml Kokosmilch | 1 tsp Chiasamen | 6 g Kokosflocken | 1 tsp Zimt | 1/2 Banane | 1/2 Apfel | 37 g Blaubeeren",
             "instructions": "Makadamia Nüsse klein hacken. Banane mit Kokosmilch pürieren und die Nüsse dazugeben. Chia Samen, Kokosflakes, Apfel und Zimt und für ein paar Minuten köcheln lassen. Serviere mit frischen Blaubeeren und extra Zimt",
             "name": "Bananen Zimt Porridge",
@@ -98,7 +98,7 @@
         },
         "12":{
             "category": "SNACK",
-            "image": "/",
+          "image": "/image104.jpg",
             "ingredients": "75 g Pinienkerne | 60 ml Olivenöl | 2 tsp Knoblauch | 1 tbsp Zitronensaft ",
             "instructions": "Alle Zutaten, Salz und Pfeffer im Mixer mixen. Probiere und würue nach Geschmack. Sofort servieren oder im Kühlschrank für eine Woche aufbewahren",
             "name": "Basilikumpesto",
@@ -106,7 +106,7 @@
         },
         "13":{
             "category": "MAIN_DISH",
-            "image": "/",
+          "image": "/image80.jpg",
             "ingredients": "590 g Rindergulasch | 720 ml Kokosmilch | 1 tbsp Kümmel | 1 tbsp Currypulver | 1 tsp Kurkuma  | 450 g Kürbis | 1/2 Blumenkohl | 4 Zucchinis | 1 Zwiebel | 2 tsp Knoblauch | 1 Chili ",
             "instructions": "Alle Zutaten im Schongarer für 7 Stunden auf niedriger Stufe kochen",
             "name": "Rindfleischcurry",
@@ -114,7 +114,7 @@
         },
         "14":{
             "category": "MAIN_DISH",
-            "image": "/",
+          "image": "/image35.jpg",
             "ingredients": "151,2 g Gulaschfleisch|40 ml Rinderbrühe|0,3 EL Paprika|0,25 EL Tomatenmark|0,3 Lorbeerblätter|75,6 g Süßkartoffel(gewürfelt)|0,67 Karrotten(Scheiben)|0,33 grüne Paprika(gewürfelt)|0,33 Zwiebel(Scheiben)|0,33 tl Knoblauch(gepresst)|0,5 Tomaten(geviertelt)|1 Markknochen",
             "instructions": "Alle Zutaten im Schongarer für 8 Stunden auf niedriger Stufe kochen",
             "name": "Rindfleischgulasch",
@@ -122,7 +122,7 @@
         },
         "15":{
             "category": "MAIN_DISH",
-            "image": "/",
+          "image": "/image30.jpg",
             "ingredients": "900 g Rinderflanke | 55 g scharfe Soße | 2 tbsp Tamarisoße | 2 tsp Chilipulver| 1 tsp Knoblauchpulver | 1 tsp Zwiebelpulver ",
             "instructions": "Klopfe das Fleisch, aber nicht zu dünn. Alle Zutaten mit einem Teelöffel Schwarzem Pfeffer zusammemischen. Das Fleisch komplett in die Marinade einlegen. Zudecken und im Kühlschrank für 8 Stunden kühlen. Lege das Backblech mit Alufolie aus und lege das Fleisch drauf, sodass sie nicht übereinander liegen. Für ca. 3 Stunden auf jeder Seite mit 80°C backen. Das Trockenfleisch ist fertig sobald das Fleisch komplett trocken ist",
             "name": "Trockenfleisch",
@@ -130,6 +130,7 @@
         },
         "16":{
             "category": "MAIN_DISH",
+          "image": "/image114.jpg",
             "ingredients": "624 g Rinderleber | 240 g Malzena | 2 Zwiebel",
             "instructions": "Leber mit kalten Wasser abwaschen. Grozügig Butter schmelzen. Zuerst Zwiebelringe anrösten und dann zur Seite stellen. Maisstärke mit Salz und Pfeffer in ein flaches Gefäß geben. Leber in der Maisstärke wenden und mit mehr Butter von beiden Seiten anbraten bis die Leber braun ist. Zwiebelringe dazugeben und auf mittlerer Hitze weiterbraten bis die Leber dir passt",
             "name": "Rindsleber mit Zwiebel",
@@ -145,7 +146,7 @@
         },
         "18":{
             "category": "SNACK",
-            "image": "/",
+          "image": "/image57.jpg",
             "ingredients": "397 g schwarze Bohnen | 960 ml Hühnerbrühe | 1.5 tsp Chilipulver | 1.5 tsp Kümmel | 1 Zwiebel | 3 tsp Knoblauch | 1 grüne Paprika | 1 rote Paprika | 1 gelbe Paprika ",
             "instructions": "Bohnen abtropfen, trocknen und in eine Pfanne geben. Hühnerbrühe, 480ml Wasser und das Gemüse hinzugeben. Zum Kochen bringen, dann auf niedriger Hitze und zugedeckt für 1,5 Stunden köcheln lassen. Chili, Kümmel und Salz hinzugeben und gut umrühren. Deckel wieder drauf und nochmals für eine Stunde oder bis genug Flüssigkeit verschwunden ist köcheln lassen",
             "name": "Schwarze Bohnen",
@@ -153,7 +154,7 @@
         },
         "19":{
             "category": "SNACK",
-            "image": "/",
+          "image": "/image53.jpg",
             "ingredients": "130 g Schwarzen-/Wildreis| 1 l Wasser",
             "instructions": "Reis unter Wasser abwaschen und trocknen. Reis in eine Pfanne geben und pro 225 g Reis, 240 ml Wasser hinzugeben. Zum Kochen bringen. Sobald es zu kochen beginnt auf niedriger Hitze mit Deckel 45 Minuten köcheln lassen. Falls der Reis weich ist, siebe das überschüssige Wasser ab und fertig. Mit einer Gabel den Reis auflockern und mit Butter und Salz servieren. Oder mit einem Reiskocher pro 225 g Reis, 240-360 ml Wasser hinzugeben",
             "name": "Schwarzer Wildreis",
@@ -161,7 +162,7 @@
         },
         "20":{
             "category": "SNACK",
-            "image": "/",
+          "image": "/image40.jpg",
             "ingredients": "2 Eier | 1/2 tsp Oregano | 1/2 tsp Paprika | 1 Blumenkohl",
             "instructions": "Heize den Ofen auf 190°C vor. Blumenkohl im Mixer mixen bis er kleiner als Reis wird. Blumenkohl in einer Mikrowellenfesten Schüssel mit hoher Hitze für 4 Minuten kochen. Nach 2 Minuten einmal umrühren. Alternativ, Blumenkohl für 5 Minuten im Wasser kochen, absieben und abkühlen lassen. Den Blumenkohl danach in ein Geschirrtuch wickeln und so viel Wasser wie möglich herausdrücken. Blumenkohl und alle Zutaten mit Salz und Pfeffer in eine Schüssel geben und gut durchmischen. Bälle formen und diese auf ein Backblech mit Backpapier legen und flachdrücken. Auf jeder Seite für 10 Minuten backen. Für eine knusprige Kante den Tortilla auf jeder Seite kurz anbraten",
             "name": "Blumenkohltortilla",
@@ -169,7 +170,7 @@
         },
         "21":{
             "category": "SNACK",
-            "image": "/",
+          "image": "/image49.jpg",
             "ingredients": "1 tsp Tamarisoße | 170 g Bok choy",
             "instructions": "Butter soviel du willst erhitzen und den Bok Choy braten bis er weich ist. Tamari Soße hinzugeben und gut durchmischen. (Optional) Lieblingsgewürze hinzugeben",
             "name": "Bok Choy",
@@ -177,7 +178,7 @@
         },
         "22":{
             "category": "BREAKFAST",
-            "image": "/",
+          "image": "/image71.jpg",
             "ingredients": "198 g Würstchen | 4 Eier | 1 tsp Chilipulver | 1/2 tsp Oregano | 1/2 tsp Knoblauchpulver | 1 Zwiebel | 1/2 roter Paprika | 140 g Spinat | 170 g Süßkartoffel",
             "instructions": "Ofen auf 200°C vorheizen. Süßkartoffelwürfel mit Olivenöl, Chili, Oregano, Knoblauchpulver, Salz und Pfeffer vermischen. Die Würfel auf ein Blech mit Backpapier legen und für 25 Minuten backen. Würstchen in einer Pfanne mit Kokosfett anbraten und währenddessen aufschneiden. Würstchen in eine Schüssel geben und Zwiebel und Paprika in der selben Pfanne anbraten und zum Würstchen geben. Spinat in der gleichen Pfanne anbraten und zu den restlichen Zutaten geben. Die Würfel auch hinzugeben und ein Spiegelei drüberlegen und servieren",
             "name": "Frühstückspfanne mit Würstchen",
@@ -185,7 +186,7 @@
         },
         "23":{
             "category": "BREAKFAST",
-            "image": "/",
+          "image": "/image7.jpg",
             "ingredients": "850 g Faschiertes | 240 ml Rinderbrühe | 400 g Dosentomaten | 1.5 tbsp Mehl | 1 tsp italienische Gewürze | 600 g Süßkartoffel | 3 Karotten | 120 g Erbsen | 1 Zwiebel | 2 tsp Knoblauch",
             "instructions": "Alle Zutaten in den Schongarer geben und mit etwas Salz und Pfeffer würzen und umrühren. Deckel drauf und für 8 Stunden über Nacht auf niedrig kochen. Am Morgen nochmal umrühren und servieren",
             "name": "Frühstückspfanne mit Rindfleisch",
@@ -201,7 +202,7 @@
         },
         "25":{
             "category": "SNACK",
-            "image": "/",
+          "image": "/image36.jpg",
             "ingredients": "",
             "instructions": "",
             "name": "Rosenkohlchips",
@@ -209,15 +210,15 @@
         },
         "26":{
             "category": "SNACK",
-            "image": "/",
+          "image": "/image97.jpg",
             "ingredients": "",
             "instructions": "",
-            "name": "Sardninen in der Dose",
+          "name": "Sardinen in der Dose",
             "time": "1 Minute"
         },
         "27": {
             "category": "SNACK",
-            "image": "/",
+          "image": "/image60.jpg",
             "ingredients": "",
             "instructions": "",
             "name": "Brokkoli mit Cashewnüssen",
@@ -233,7 +234,7 @@
         },
         "29":{
             "category": "SNACK",
-            "image": "/",
+          "image": "/image37.jpg",
             "ingredients": "",
             "instructions": "",
             "name": "Blumenkohlreis",
@@ -241,7 +242,7 @@
         },
         "30": {
             "category": "MAIN_DISH",
-            "image": "/",
+          "image": "/image29.jpg",
             "ingredients": "",
             "instructions": "",
             "name": "Blumenkohl Lachs Sushi",
@@ -249,7 +250,7 @@
         },
         "31": {
             "category": "SNACK",
-            "image": "/",
+          "image": "/image51.jpg",
             "ingredients": "",
             "instructions": "",
             "name": "Chai Bananensmoothie",
@@ -257,7 +258,7 @@
         },
       "32": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image62.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Chia Quinoa Parfait",
@@ -265,7 +266,7 @@
       },
       "33": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image117.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Chia Leinsamen Cracker",
@@ -281,7 +282,7 @@
       },
       "35": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image102.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Hühnercurry",
@@ -289,7 +290,7 @@
       },
       "36": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image8.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Hühnerleber mit Zwiebel und Pilzen",
@@ -297,7 +298,7 @@
       },
       "37": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image108.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Hühner Reispapier Wraps",
@@ -313,7 +314,7 @@
       },
       "39": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image17.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Hühnersuppe",
@@ -321,7 +322,7 @@
       },
       "40": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image23.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Hühnerbrühe",
@@ -329,7 +330,7 @@
       },
       "41": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image111.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Hühner Stir Fry",
@@ -337,7 +338,7 @@
       },
       "42": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image115.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Kichererbsenpürree",
@@ -345,7 +346,7 @@
       },
       "43": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image64.jpg",
         "ingredients": "453 g Faschiertes | 240 ml Rinderbrühe | 793 g  Dosentomaten | 425 g Kidneybohnen | 1 tbsp Chilipulver | 1 tsp Paprika | 1 tsp Kümmel | 1/2 tsp Marjoram | 2 tbsp Tomatenpaste | 1 Zwiebel | 2 tsp Knoblauch | 50 g frischen Koriander | 1 Limette",
         "instructions": "In einer gro0en Pfanne Öl erhitzen und die Zwiebel mit dem Knoblauch anbraten | 2. Nun das Faschierte, das Chili, Paprika und Kümmelpulver hinzufügen und mit Marjoram, Salz und Pfeffer abschmecken | 3. Jetzt die Bohnen und die Tomatenpaste dazu geben und mit der Rinderbrühe und den Dosentomaten aufgießen | 4. Reduziere die Hitze und lass es für 30 minuten köcheln | 5. Schmecke es erneut ab und serviere es mit einem Stück Limette  ",
         "name": "Chili con Carne",
@@ -353,7 +354,7 @@
       },
       "44": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image3.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Geschnittener Chinakohl",
@@ -361,15 +362,15 @@
       },
       "45": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image69.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Dunkler Schokoriegel",
-        "time": "1 Minute"
+        "time": "3 Stunden"
       },
       "46": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image10.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Schoko Chia Pudding",
@@ -377,7 +378,7 @@
       },
       "47": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image118.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Schoko Schlammkuchen",
@@ -385,7 +386,7 @@
       },
       "48": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image44.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Kokosnuss Avocado Eis",
@@ -393,7 +394,7 @@
       },
       "49": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image101.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Hühnerstreifen mit Kokosnuss",
@@ -409,7 +410,7 @@
       },
       "51": {
         "category": "BREAKFAST",
-        "image": "/",
+        "image": "/image27.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Granola mit Kokosnuss",
@@ -417,7 +418,7 @@
       },
       "52": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image73.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Shrimps mit Kokosnuss",
@@ -425,7 +426,7 @@
       },
       "53": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image112.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Maiskolben",
@@ -433,7 +434,7 @@
       },
       "54": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image100.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Brokkoli Curry Suppe",
@@ -441,7 +442,7 @@
       },
       "55": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image6.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Hühner Curry Salat",
@@ -449,7 +450,7 @@
       },
       "56": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image63.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Teufelseier",
@@ -457,7 +458,7 @@
       },
       "57": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image103.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Protein Pulver",
@@ -465,7 +466,7 @@
       },
       "58": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image28.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Eiersalat",
@@ -473,7 +474,7 @@
       },
       "59": {
         "category": "BREAKFAST",
-        "image": "/",
+        "image": "/image110.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Eier Avocado Süßkartoffel Toast",
@@ -489,7 +490,7 @@
       },
       "61": {
         "category": "BREAKFAST",
-        "image": "/",
+        "image": "/image121.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "5 Minuten Eier muffin",
@@ -497,7 +498,7 @@
       },
       "62": {
         "category": "BREAKFAST",
-        "image": "/",
+        "image": "/image39.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Leinsamen Mandelmehl Porridge",
@@ -505,7 +506,7 @@
       },
       "63": {
         "category": "BREAKFAST",
-        "image": "/",
+        "image": "/image41.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Leinsamen Mandelmehl Waffeln",
@@ -513,7 +514,7 @@
       },
       "64": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image93.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Leinsamenmilch",
@@ -521,7 +522,7 @@
       },
       "65": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image5.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Frische Tomaten",
@@ -529,7 +530,7 @@
       },
       "66": {
         "category": "BREAKFAST",
-        "image": "/",
+        "image": "/image82.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Spiegelei, Würstchen und Kochbanane",
@@ -537,7 +538,7 @@
       },
       "67": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image48.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Hühnerflügel mit Knoblauch und Ingwer",
@@ -545,7 +546,7 @@
       },
       "68": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image43.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Shrimps, Reis und Spargel mit Knoblauch",
@@ -561,7 +562,7 @@
       },
       "70": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image88.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Guacamole",
@@ -577,7 +578,7 @@
       },
       "72": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image77.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Kakao",
@@ -585,7 +586,7 @@
       },
       "73": {
         "category": "BREAKFAST",
-        "image": "/",
+        "image": "/image1.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Warmes Chia Porridge",
@@ -593,7 +594,7 @@
       },
       "74": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image21.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Kohlchips",
@@ -601,7 +602,7 @@
       },
       "75": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image45.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Kimchi",
@@ -617,7 +618,7 @@
       },
       "77": {
         "category": "BREAKFAST",
-        "image": "/",
+        "image": "/image66.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Kyms Smoothie",
@@ -625,7 +626,7 @@
       },
       "78": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image84.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Lammkeulen oder Rindskeulen",
@@ -633,7 +634,7 @@
       },
       "79": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image85.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Salatburger mit Rind",
@@ -641,7 +642,7 @@
       },
       "80": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image90.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Salattacos mit Rind",
@@ -649,7 +650,7 @@
       },
       "81": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image52.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Leberpastete",
@@ -657,7 +658,7 @@
       },
       "82": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image31.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Kohlsalat",
@@ -665,7 +666,7 @@
       },
       "83": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image113.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Truthahn Fleischbällchen",
@@ -681,7 +682,7 @@
       },
       "85": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image56.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Pastinakenchips",
@@ -689,7 +690,7 @@
       },
       "86": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image25.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Schoko Eis",
@@ -697,7 +698,7 @@
       },
       "87": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image58.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Mayonnaise",
@@ -705,7 +706,7 @@
       },
       "88": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image119.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Ranch Dressing",
@@ -713,7 +714,7 @@
       },
       "89": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image65.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Sour Cream",
@@ -721,7 +722,7 @@
       },
       "90": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image78.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Spaghetti aus Kürbis",
@@ -729,7 +730,7 @@
       },
       "91": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image4.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Eingelegte Karrotenstreifen",
@@ -737,7 +738,7 @@
       },
       "92": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image109.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Lachs mit Pistazienkruste",
@@ -753,7 +754,7 @@
       },
       "94": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image120.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Schweinesalatschüsseln",
@@ -761,7 +762,7 @@
       },
       "95": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image83.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Schwein Tenderloin",
@@ -769,7 +770,7 @@
       },
       "96": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image46.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Gekochter Quinoa",
@@ -777,7 +778,7 @@
       },
       "97": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image72.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Huhn mit Reiskrümel",
@@ -785,7 +786,7 @@
       },
       "98": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image11.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Roast Beef",
@@ -793,7 +794,7 @@
       },
       "99": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image98.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Grillhähnchen",
@@ -801,7 +802,7 @@
       },
       "100": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image59.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "gegrilltes Lamm oder Rind",
@@ -809,7 +810,7 @@
       },
       "101": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image92.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "gegrillter Truthahn",
@@ -817,7 +818,7 @@
       },
       "102": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image67.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "gegrillter Brokkoli",
@@ -825,7 +826,7 @@
       },
       "103": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image15.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "gegrillter Rosenkohl",
@@ -841,7 +842,7 @@
       },
       "105": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image99.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "gegrillter Kürbis",
@@ -849,7 +850,7 @@
       },
       "106": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image26.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Fisch mit Fenchel, Rosmarin und Knoblauch",
@@ -857,7 +858,7 @@
       },
       "107": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image18.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Rosmarinmandeln",
@@ -865,7 +866,7 @@
       },
       "108": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image70.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Lachs mit Senfsoße",
@@ -889,7 +890,7 @@
       },
       "112": {
         "category": "BREAKFAST",
-        "image": "/",
+        "image": "/image12.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Pikante Pancakes",
@@ -897,7 +898,7 @@
       },
       "113": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image42.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Popcorn",
@@ -905,7 +906,7 @@
       },
       "114": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image32.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Shrimpspieße",
@@ -913,7 +914,7 @@
       },
       "115": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image96.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Steak mit Chimichurri Soße",
@@ -921,7 +922,7 @@
       },
       "116": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image68.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Geschmortes Rind und Gemüse",
@@ -929,7 +930,7 @@
       },
       "117": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image9.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Brownies im Schongarer",
@@ -945,7 +946,7 @@
       },
       "119": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image33.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Rippchen im Schongarer",
@@ -953,7 +954,7 @@
       },
       "120": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image116.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Spaghetti Squash",
@@ -961,7 +962,7 @@
       },
       "121": {
         "category": "BREAKFAST",
-        "image": "/",
+        "image": "/image81.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Steak mit Spiegelei",
@@ -969,7 +970,7 @@
       },
       "122": {
         "category": "BREAKFAST",
-        "image": "/",
+        "image": "/image76.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Gefüllte Paprika",
@@ -977,7 +978,7 @@
       },
       "123": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image55.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Sunshine Suppe",
@@ -985,7 +986,7 @@
       },
       "124": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image47.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Curly Fries aus Süßkartoffel",
@@ -993,7 +994,7 @@
       },
       "125": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image86.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "zerkleinerte Süßkartoffel",
@@ -1001,7 +1002,7 @@
       },
       "126": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image86.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Süßkartoffelpürree",
@@ -1009,7 +1010,7 @@
       },
       "127": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image13.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Mangold",
@@ -1017,7 +1018,7 @@
       },
       "128": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image14.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Ketchup",
@@ -1025,7 +1026,7 @@
       },
       "129": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image2.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Thunfisch Avocado Boote",
@@ -1041,7 +1042,7 @@
       },
       "131": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image91.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Truthahnsalat",
@@ -1049,7 +1050,7 @@
       },
       "132": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image61.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Rinder Stir Fry",
@@ -1057,7 +1058,7 @@
       },
       "133": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image87.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Gemüsebrühe",
@@ -1065,7 +1066,7 @@
       },
       "134": {
         "category": "BREAKFAST",
-        "image": "/",
+        "image": "/image94.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Rührei mit Gemüse",
@@ -1081,7 +1082,7 @@
       },
       "136": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image79.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Wasser mit Geschmack",
@@ -1089,7 +1090,7 @@
       },
       "137": {
         "category": "MAIN_DISH",
-        "image": "/",
+        "image": "/image54.jpg",
         "ingredients": "",
         "instructions": "",
         "name": "Zoodles Bolognese",
@@ -1161,7 +1162,7 @@
       },
       "146": {
         "category": "BREAKFAST",
-        "image": "/",
+        "image": "/image22.png",
         "ingredients": "99,22 g Würstchen|2 Eier|30 ml Mandelmilch|0,125 tl Knoblauchpulver|70,87 g Baby Spinat|85,05 g Süßkartoffel(gewürfelt)|0,25 Rote Paprika(gewürfelt)|0,125 Rote Zwiebel(gewürfelt)",
         "instructions": "Heize den Ofen auf 180°C vor. Koch die Würstchen und gib sie in eine Schüssel. Koche die Süßkartoffelwürfel in einer Pfanne bis sie weich sind und gib sie zu den Würstchen. Koche die Rote Zwiebel und Paprika bis sie weich sind und gib sie zu den Würstchen. Koche den Spinat und gib ihn zu den Würstchen. In einer separaten Schüssel mixe die Eier, Mandelmilch, Knoblauchpulver, Salz und Pfeffer. Gib diese Mischung zu den anderen Zutaten. Gib den Mix in eine eingefettete ofenfeste Form und backe für 30 Minuten bis das Ei fertig ist",
         "name": "Frühstücksfrittata",
@@ -1257,7 +1258,7 @@
       },
       "158": {
         "category": "SNACK",
-        "image": "/",
+        "image": "/image74.jpg",
         "ingredients": "30 ml Olivenöl|1 EL Weißer Essig|0,5 tl Senf|0,5 tl Rettich|0,5 tl Italienische Gewürze|0,25 Rotkohl(klein geschnitten)|0,25 Grüner Salat(klein geschnitten)|0,5 Karotten(klein geschnitten)|0,5 Apfel(klein geschnitten)|0,5 tl Zitronensaft",
         "instructions": "Mixe den Salat, Karotte und Apfel in einer Schüssel. in einer kleinen Schüssel mische den Rest der Zutaten für ein Dressing. Mixe den Salat mit dem Dressing",
         "name": "Coleslaw",
@@ -1598,6 +1599,22 @@
         "instructions": "Gib die Kokossahne/Milch in den Kühlschrank sodass sich die Sahne/Milch trennt. Löffel die Sahne am Deckel ab und gib sie in eine kalte Schüssel. Behalte den Rest für Smoothies auf. Gib die Kokossahne in einen Mixer bis sie Cremig wird und gib Vanille oder Reismalz hinzu",
         "name": "Kokossahne",
         "time": "10 Minuten"
+      },
+      "201": {
+        "category": "MAIN_DISH",
+        "image": "/image16.jpg",
+        "ingredients": "",
+        "instructions": "",
+        "name": "Rinderbrühe",
+        "time": "12 Stunden"
+      },
+      "202": {
+        "category": "MAIN_DISH",
+        "image": "/image106.jpg",
+        "ingredients": "",
+        "instructions": "",
+        "name": "Rindssalat",
+        "time": "30 Minuten"
       }
     },
     "ingredients":{
