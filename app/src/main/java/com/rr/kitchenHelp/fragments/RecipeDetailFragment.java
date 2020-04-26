@@ -61,7 +61,8 @@ public class RecipeDetailFragment extends Fragment {
 
         FirebaseStorage storage = FirebaseStorage.getInstance("gs://kitchenhelp-58395.appspot.com");
         StorageReference reference = storage.getReference();
-        final StorageReference pathReference = reference.child("ClarionHotelPrag-2016.PNG");
+
+        final StorageReference pathReference = reference.child(recipeDetail.getImage());
 
 
         Glide.with(getActivity().getApplicationContext())
