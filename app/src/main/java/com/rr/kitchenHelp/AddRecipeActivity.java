@@ -43,12 +43,12 @@ public class AddRecipeActivity extends BaseActivity {
         builder.setItems(options, new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {
-                if (options[which].equals("Neues Foto")) {
+                if (which == 0) {
                     Intent takePicture = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
                     if (takePicture.resolveActivity(getPackageManager()) != null) {
                         startActivityForResult(takePicture, 0);
                     }
-                } else if (options[which].equals("Wähle aus Galerie")) {
+                } else if (which == 1) {
                     Intent pickPhoto = new Intent(Intent.ACTION_PICK, MediaStore.Images.Media.EXTERNAL_CONTENT_URI);
                     startActivityForResult(pickPhoto, 1);
                 } else {
