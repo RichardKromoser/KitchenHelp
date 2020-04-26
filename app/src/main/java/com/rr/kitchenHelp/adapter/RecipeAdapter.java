@@ -100,7 +100,8 @@ public class RecipeAdapter extends RecyclerView.Adapter<RecipeAdapter.RecipeView
 
         FirebaseStorage storage = FirebaseStorage.getInstance("gs://kitchenhelp-58395.appspot.com");
         StorageReference reference = storage.getReference();
-        final StorageReference pathReference = reference.child("ClarionHotelPrag-2016.PNG");
+
+        final StorageReference pathReference = reference.child(filteredDataset.get(position).getImage());
 
 
         Glide.with(holder.getRecipePicture().getContext())
