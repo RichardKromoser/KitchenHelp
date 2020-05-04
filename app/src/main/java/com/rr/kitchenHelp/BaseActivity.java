@@ -1,5 +1,6 @@
 package com.rr.kitchenHelp;
 
+import android.content.Intent;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -15,6 +16,8 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 
 import com.google.android.material.navigation.NavigationView;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
@@ -38,6 +41,7 @@ public abstract class BaseActivity extends AppCompatActivity {
     private boolean addRecipeVisible = true;
     private DatabaseReference mDatabase;
     private FirebaseDatabase database;
+    private FirebaseAuth mAuth;
     private static final String TAG = "BaseActivity";
 
     public List<Recipe> getRecipeList() {
@@ -181,6 +185,11 @@ public abstract class BaseActivity extends AppCompatActivity {
         });
     }
 
+    public void initializeAuth(){
+        mAuth = FirebaseAuth.getInstance();
+
+    }
+
     private void showdata(DataSnapshot dataSnapshot) {
         DataSnapshot dSh = dataSnapshot.child("ingredients");
         Log.d(TAG, dSh.getValue().toString());
@@ -198,5 +207,9 @@ public abstract class BaseActivity extends AppCompatActivity {
                 Log.d(TAG, re.getCategory());
             }
         }
+    }
+
+    public FirebaseAuth getmAuth() {
+        return mAuth;
     }
 }

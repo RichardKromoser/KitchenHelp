@@ -22,7 +22,6 @@ public class MainActivity extends BaseActivity {
         initializeDefaultDrawer();
         initializeDatabase();
         FirebaseStorage storage = FirebaseStorage.getInstance("gs://kitchenhelp-58395.appspot.com");
-
     }
 
 
