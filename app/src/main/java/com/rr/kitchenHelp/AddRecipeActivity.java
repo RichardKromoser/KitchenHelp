@@ -92,20 +92,34 @@ public class AddRecipeActivity extends BaseActivity {
     }
 
     public void saveRecipe(View view) {
+
         EditText recipeName = findViewById(R.id.add_recipe_name);
         EditText recipeIngredients = findViewById(R.id.add_recipe_ingredients);
         EditText recipeInstructions = findViewById(R.id.add_recipe_instructions);
 
-        Recipe newRecipe = new Recipe();
+        if (recipeName.getText().toString().isEmpty()) {
+            recipeName.requestFocus();
+            recipeName.setError("Bitte einen Titel eingeben");
+        } else if (recipeIngredients.getText().toString().isEmpty()) {
+            recipeIngredients.requestFocus();
+            recipeIngredients.setError("Bitte min. 1 Zutat eingeben");
+        } else if (recipeInstructions.getText().toString().isEmpty()) {
+            recipeInstructions.requestFocus();
+            recipeInstructions.setError("Bitte min. 1 Schritt eingeben");
+        } else {
+            Recipe newRecipe = new Recipe();
 
-        String newId = String.valueOf(getRecipeList().size());
+            String newId = String.valueOf(getRecipeList().size());
 
-        newRecipe.setName(recipeName.getText().toString());
-        newRecipe.setIngredients(recipeIngredients.getText().toString().replace("\n", "|"));
-        newRecipe.setInstructions(recipeInstructions.getText().toString());
-        newRecipe.setImage("/image" + newId + ".jpg");
+            newRecipe.setName(recipeName.getText().toString());
+            newRecipe.setIngredients(recipeIngredients.getText().toString().replace("\n", "|"));
+            newRecipe.setInstructions(recipeInstructions.getText().toString());
+            newRecipe.setImage("/image" + newId + ".jpg");
 
-        getmDatabase().child("recipes").child(newId).setValue(newRecipe);
+            getmDatabase().child("recipes").child(newId).setValue(newRecipe);
+        }
+
+
 
     }
 }
