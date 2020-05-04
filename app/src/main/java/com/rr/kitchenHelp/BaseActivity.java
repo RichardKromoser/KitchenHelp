@@ -54,6 +54,10 @@ public abstract class BaseActivity extends AppCompatActivity {
         this.addRecipeVisible = addRecipeVisible;
     }
 
+    public DatabaseReference getmDatabase() {
+        return mDatabase;
+    }
+
     public void initializeDefaultToolbar() {
         toolbar = findViewById(R.id.toolbar_main);
         setSupportActionBar(toolbar);
@@ -190,7 +194,9 @@ public abstract class BaseActivity extends AppCompatActivity {
             Recipe re = d.getValue(Recipe.class);
             recipeList.add(re);
             Log.d(TAG, re.getName());
-            Log.d(TAG, re.getCategory());
+            if (re.getCategory() != null) {
+                Log.d(TAG, re.getCategory());
+            }
         }
     }
 }

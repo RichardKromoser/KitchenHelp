@@ -10,7 +10,10 @@ import android.os.Bundle;
 import android.provider.MediaStore;
 import android.view.View;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.ImageView;
+
+import com.rr.kitchenHelp.dto.Recipe;
 
 public class AddRecipeActivity extends BaseActivity {
     private ImageView picture;
@@ -86,5 +89,24 @@ public class AddRecipeActivity extends BaseActivity {
                     break;
             }
         }
+    }
+
+    public void saveRecipe(View view) {
+        EditText recipeName = findViewById(R.id.add_recipe_name);
+        EditText recipeIngredients = findViewById(R.id.add_recipe_ingredients);
+        EditText recipeInstructions = findViewById(R.id.add_recipe_instructions);
+
+        Recipe newRecipe = new Recipe();
+
+        String newId = String.valueOf(getRecipeList().size());
+
+        newRecipe.setId(newId);
+        newRecipe.setName(recipeName.getText().toString());
+        newRecipe.setIngredients(recipeIngredients.getText().toString().replace("\n", "|"));
+        newRecipe.setInstructions(recipeInstructions.getText().toString());
+        newRecipe.setImage("/image" + newId + ".jpg");
+
+        getmDatabase().child("recipes").child(newId).setValue(newRecipe);
+
     }
 }
