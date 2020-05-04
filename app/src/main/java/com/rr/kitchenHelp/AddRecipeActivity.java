@@ -9,7 +9,6 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.provider.MediaStore;
 import android.view.View;
-import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
 
@@ -28,10 +27,9 @@ public class AddRecipeActivity extends BaseActivity {
         setSearchVisible(false);
         setAddRecipeVisible(false);
         picture = findViewById(R.id.new_recipe_picture);
+        picture.setImageResource(R.drawable.ic_add_a_photo_light_72dp);
 
-        Button pictureButton = findViewById(R.id.add_foto);
-
-        pictureButton.setOnClickListener(new View.OnClickListener() {
+        picture.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 selectPicture(AddRecipeActivity.this);
