@@ -99,13 +99,13 @@ public class AddRecipeActivity extends BaseActivity {
 
         if (recipeName.getText().toString().isEmpty()) {
             recipeName.requestFocus();
-            recipeName.setError("Bitte einen Titel eingeben");
+            recipeName.setError(getString(R.string.error_empty_name));
         } else if (recipeIngredients.getText().toString().isEmpty()) {
             recipeIngredients.requestFocus();
-            recipeIngredients.setError("Bitte min. 1 Zutat eingeben");
+            recipeIngredients.setError(getString(R.string.error_empty_ingredients));
         } else if (recipeInstructions.getText().toString().isEmpty()) {
             recipeInstructions.requestFocus();
-            recipeInstructions.setError("Bitte min. 1 Schritt eingeben");
+            recipeInstructions.setError(getString(R.string.error_empty_instructions));
         } else {
             Recipe newRecipe = new Recipe();
 

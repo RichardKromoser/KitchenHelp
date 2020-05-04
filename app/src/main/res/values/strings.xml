@@ -19,6 +19,9 @@
     <string name="add_recipe">Rezept hinzufügen</string>
     <string name="instructions">Zubereitung</string>
     <string name="no_info">Keine Angabe</string>
+    <string name="error_empty_instructions">Bitte min. 1 Schritt eingeben</string>
+    <string name="error_empty_ingredients">Bitte min. 1 Zutat eingeben</string>
+    <string name="error_empty_name">Bitte einen Titel eingeben</string>
 
     <string-array name="navigation_drawer_items_array">
         <item>Rezepte</item>
