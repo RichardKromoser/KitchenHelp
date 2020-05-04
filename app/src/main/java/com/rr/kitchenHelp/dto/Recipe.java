@@ -10,12 +10,10 @@ public class Recipe {
     private String time;
     private String ingredients;
     private String instructions;
-    private String id;
     //private List<String> ingredients= new ArrayList<>();
     //private List<String> instructions = new ArrayList<>();
 
-    public Recipe(String id, String image, String instructions, String name, String ingredients, String time, String category) {
-        this.id = id;
+    public Recipe(String image, String instructions, String name, String ingredients, String time, String category) {
         this.image = image;
         this.category = category;
         this.name = name;
@@ -98,14 +96,6 @@ public class Recipe {
     public void addInstruction(String instruction) {
         this.instructions.add(instruction);
     }*/
-
-    public String getId() {
-        return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
-    }
 
     private void StringToList(String listAsString, List<String> listToAdd) {
         if (listAsString != null && !listAsString.isEmpty()) {

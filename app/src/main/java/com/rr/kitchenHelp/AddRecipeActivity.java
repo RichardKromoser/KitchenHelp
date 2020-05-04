@@ -100,7 +100,6 @@ public class AddRecipeActivity extends BaseActivity {
 
         String newId = String.valueOf(getRecipeList().size());
 
-        newRecipe.setId(newId);
         newRecipe.setName(recipeName.getText().toString());
         newRecipe.setIngredients(recipeIngredients.getText().toString().replace("\n", "|"));
         newRecipe.setInstructions(recipeInstructions.getText().toString());
