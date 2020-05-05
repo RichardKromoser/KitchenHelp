@@ -22,17 +22,23 @@ public class LoginActivity extends BaseActivity{
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.login);
         initializeAuth();
+        FirebaseAuth auth = getmAuth();
+        if (auth.getCurrentUser() != null){
+            updateUI();
+            finish();
+        }
+        else{
+            setContentView(R.layout.login);
+            Button login = findViewById(R.id.login_button);
 
-        Button login = findViewById(R.id.login_button);
-
-        login.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                signIn();
-            }
-        });
+            login.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    signIn();
+                }
+            });
+        }
     }
 
     private void signIn(){
